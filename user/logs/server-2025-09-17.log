@@ -1,0 +1,50 @@
+[2025-09-17T16:54:23.325Z] debug: 	Importing configs...
+[2025-09-17T16:54:23.483Z] info: 	Commit hash: c6a4e5ef8d77e5195dc2bc6449b9e69b19605474
+[2025-09-17T16:54:23.484Z] info: 	Build date: 1756748704968
+[2025-09-17T16:54:23.630Z] info: 	ModLoader: loading: 2 server mods...
+[2025-09-17T16:54:23.646Z] debug: 	ModLoader: Mod rairaitheraichu-ammostats is missing from order.json, adding
+[2025-09-17T16:54:23.667Z] info: 	Mod: MoreCheckmarksBackend version: 1.5.17 by: VIP loaded
+[2025-09-17T16:54:23.667Z] info: 	Mod: AmmoStats version: 3.2.0 by: RaiRaiTheRaichu loaded
+[2025-09-17T16:54:23.721Z] info: 	Server: executing startup callbacks...
+[2025-09-17T16:54:23.721Z] debug: 	OS: x64 | Windows 10 Pro | win32
+[2025-09-17T16:54:23.722Z] debug: 	CPU: AMD Ryzen 7 5700X 8-Core Processor              cores: 16
+[2025-09-17T16:54:23.722Z] debug: 	RAM: 31.95GB
+[2025-09-17T16:54:23.722Z] debug: 	PATH: Qzpcc3B0ZXJcU1BULlNlcnZlci5leGU=
+[2025-09-17T16:54:23.722Z] debug: 	PATH: Qzpcc3B0ZXJcU1BULlNlcnZlci5leGU=
+[2025-09-17T16:54:23.722Z] debug: 	Server: 3.11.4
+[2025-09-17T16:54:23.722Z] debug: 	Node: 22.12.0
+[2025-09-17T16:54:23.722Z] debug: 	Date: 1756748704968
+[2025-09-17T16:54:23.722Z] debug: 	Commit: c6a4e5ef8d77e5195dc2bc6449b9e69b19605474
+[2025-09-17T16:54:23.732Z] info: 	Importing database...
+[2025-09-17T16:54:27.390Z] info: 	Database import finished
+[2025-09-17T16:54:27.391Z] debug: 	Database import took 3.6581s
+[2025-09-17T16:54:27.400Z] debug: 	Database ID validation took 1.272ms
+[2025-09-17T16:54:27.444Z] succ: 	[AmmoStats]: Loaded successfully.
+[2025-09-17T16:54:27.491Z] error: 	Port 6969 is already in use, DO NOT RUN TWO SPT SERVERS. This will result in your progress not saving. Try restarting your computer. [listen EADDRNOTAVAIL: address not available 26.18.212.250:6969]
+[2025-09-17T16:54:27.493Z] error: 	Error: listen EADDRNOTAVAIL: address not available 26.18.212.250:6969
+[2025-09-17T16:54:27.493Z] error: 	Error: listen EADDRNOTAVAIL: address not available 26.18.212.250:6969
+[2025-09-17T16:54:27.494Z] error: 	Error: listen EADDRNOTAVAIL: address not available 26.18.212.250:6969
+    at Server.setupListenHandle [as _listen2] (node:net:1890:21)
+    at listenInCluster (node:net:1969:12)
+    at node:net:2178:7
+    at processTicksAndRejections (node:internal/process/task_queues:90:21)
+[2025-09-17T16:54:27.493Z] error: 	Error: listen EADDRNOTAVAIL: address not available 26.18.212.250:6969
+    at Server.setupListenHandle [as _listen2] (node:net:1890:21)
+    at listenInCluster (node:net:1969:12)
+    at node:net:2178:7
+    at processTicksAndRejections (node:internal/process/task_queues:90:21)
+[2025-09-17T16:54:27.506Z] debug: 	Profile backup created: user\profiles\backups\2025-09-17_19-54-27
+[2025-09-17T16:54:27.510Z] debug: 	Loading 1 profile took 3.332ms
+[2025-09-17T16:54:27.511Z] debug: 	Removed trader: 5c0647fdd443bc2504c2d371 purchase: 677536b9b06e57fd5c0e05c1 from profile: 68bece950000d5098b12a587
+[2025-09-17T16:54:27.512Z] debug: 	Removed trader: 54cb50c76803fa8b248b4571 purchase: 67877f78ecc0f8078906045d from profile: 68bece950000d5098b12a587
+[2025-09-17T16:54:27.512Z] debug: 	Removed trader: 54cb50c76803fa8b248b4571 purchase: 67877f74ecc0f807890602a6 from profile: 68bece950000d5098b12a587
+[2025-09-17T16:54:27.512Z] debug: 	Removed trader: 54cb50c76803fa8b248b4571 purchase: 67877f76ecc0f8078906037a from profile: 68bece950000d5098b12a587
+[2025-09-17T16:54:27.512Z] debug: 	Removed trader: 54cb50c76803fa8b248b4571 purchase: 67877f70ecc0f8078906017a from profile: 68bece950000d5098b12a587
+[2025-09-17T16:54:27.512Z] debug: 	Removed trader: 54cb50c76803fa8b248b4571 purchase: 67877f70ecc0f80789060174 from profile: 68bece950000d5098b12a587
+[2025-09-17T16:54:27.867Z] debug: 	Removed trader: 58330581ace78e27b8b10cee purchase: 677536f07949f8788203702b from profile: 68bece950000d5098b12a587
+[2025-09-17T16:54:27.868Z] debug: 	Removed trader: 58330581ace78e27b8b10cee purchase: 677536f47949f8788203715c from profile: 68bece950000d5098b12a587
+[2025-09-17T16:54:27.868Z] debug: 	Removed trader: 58330581ace78e27b8b10cee purchase: 677536ef7949f87882036fb7 from profile: 68bece950000d5098b12a587
+[2025-09-17T16:54:27.868Z] debug: 	Removed trader: 58330581ace78e27b8b10cee purchase: 677536f07949f87882037031 from profile: 68bece950000d5098b12a587
+[2025-09-17T16:54:27.868Z] debug: 	Removed trader: 58330581ace78e27b8b10cee purchase: 677536fd7949f8788203741f from profile: 68bece950000d5098b12a587
+[2025-09-17T16:54:27.870Z] debug: 	Removed trader: 5ac3b934156ae10c4430e83c purchase: 67877f67ecc0f8078905fd3f from profile: 68bece950000d5098b12a587
+[2025-09-17T16:54:27.870Z] debug: 	Removed trader: 5ac3b934156ae10c4430e83c purchase: 67877f69ecc0f8078905fdc9 from profile: 68bece950000d5098b12a587

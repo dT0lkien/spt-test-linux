@@ -1,0 +1,17 @@
+{
+  "FirstRun": false,
+  "DefaultLocale": "English",
+  "LauncherStartGameAction": 0,
+  "UseAutoLogin": true,
+  "IsDevMode": true,
+  "GamePath": "C:\\spter",
+  "ExcludeFromCleanup": [],
+  "Server": {
+    "AutoLoginCreds": {
+      "Username": "Aboba",
+      "Password": ""
+    },
+    "Name": "SPT",
+    "Url": "https://127.0.0.1:6969"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "SPT_Version": "SPT 3.11.4 - c6a4e5",
+  "SPT_AcceptedBETerms": 0,
+  "SPT_ShownReleaseNotes": 0,
+  "AutoFillRequirements": 1,
+  "quest_657315df034d76585f032e01_isViewed": 1,
+  "quest_657315ddab5a49b71f098853_isViewed": 1,
+  "quest_68beced43ac5353d38034a4f_isViewed": 1,
+  "quest_657315e270bb0b8dba00cc48_isViewed": 1,
+  "quest_68beced43ac5353d38034a1e_isViewed": 1,
+  "quest_68beced43ac5353d38034a32_isViewed": 1,
+  "quest_657315e4a6af4ab4b50f3459_isViewed": 1,
+  "quest_5ae448a386f7744d3730fff0_isViewed": 1,
+  "quest_68beced43ac5353d38034a40_isViewed": 1,
+  "quest_68beced43ac5353d38034a11_isViewed": 1,
+  "HideoutLightLevel_68bece950000d5098b12a587": 3,
+  "hideout_welcome_shown_68bece950000d5098b12a587": 1,
+  "DefaultFilterRule_AllOffers": "{\"ViewListType\":\"AllOffers\",\"Page\":0,\"CurrencyType\":0,\"SortType\":\"Price\",\"SortDirection\":false,\"PriceFrom\":0,\"PriceTo\":0,\"QuantityFrom\":0,\"QuantityTo\":0,\"ConditionFrom\":0,\"ConditionTo\":100,\"OneHourExpiration\":false,\"RemoveBartering\":true,\"OfferOwnerType\":0,\"OnlyFunctional\":true,\"OfferId\":0,\"FilterSearchId\":\"\",\"LinkedSearchId\":\"\",\"NeededSearchId\":\"\",\"BuildItems\":{},\"BuildCount\":0,\"HandbookId\":\"5b5f78dc86f77409407a7f8e\",\"BuildSearch\":{\"BuildName\":\"\",\"BuildCount\":0,\"BuildItems\":{}},\"AnyIdSearch\":false}",
+  "EEventType/None": 0
+}

@@ -1,0 +1,324 @@
+[Message:   BepInEx] BepInEx 5.4.22.0 - EscapeFromTarkov (9/8/2025 3:15:22 PM)
+[Info   :   BepInEx] Running under Unity v0.16.1.3539
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.22.0]
+[Info   :   BepInEx] Loaded 1 patcher method from [spt-prepatch 3.11.4.0]
+[Info   :   BepInEx] 2 patcher plugins loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Info   :   BepInEx] Patching [Assembly-CSharp] with [SPT.PrePatch.SPTPrePatcher]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 9 plugins to load
+[Info   :   BepInEx] Loading [Configuration Manager 18.0.1]
+[Info   :   BepInEx] Loading [SPT.Custom 3.11.4]
+[Info   :SPT.Custom] Loading: SPT.Custom
+[Info   :ModulePatch] Enabled patch EasyAssetsPatch
+[Info   :ModulePatch] Enabled patch EasyBundlePatch
+[Info   :ModulePatch] Enabled patch DisableNonHalloweenExitsDuringEventPatch
+[Info   :ModulePatch] Enabled patch SendFleaListingTaxAmountToServerPatch
+[Info   :ModulePatch] Enabled patch AddTraitorScavsPatch
+[Info   :RequestHandler] [REQUEST]: /singleplayer/bosstypes
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/bosstypes
+[Info   :ModulePatch] Enabled patch CustomAiPatch
+[Info   :ModulePatch] Enabled patch SaveSettingsToSptFolderPatch
+[Info   :ModulePatch] Enabled patch PatchPlayerPrefsSetInt
+[Info   :ModulePatch] Enabled patch PatchPlayerPrefsSetFloat
+[Info   :ModulePatch] Enabled patch PatchPlayerPrefsSetString
+[Info   :ModulePatch] Enabled patch PatchPlayerPrefsGetInt
+[Info   :ModulePatch] Enabled patch PatchPlayerPrefsGetFloat
+[Info   :ModulePatch] Enabled patch PatchPlayerPrefsGetString
+[Info   :ModulePatch] Enabled patch PatchPlayerPrefsHasKey
+[Info   :ModulePatch] Enabled patch PatchPlayerPrefsDeleteKey
+[Info   :ModulePatch] Enabled patch PatchPlayerPrefsDeleteAll
+[Info   :ModulePatch] Enabled patch PatchPlayerPrefsSave
+[Info   :ModulePatch] Enabled patch QTEPatch
+[Info   :ModulePatch] Enabled patch RedirectClientImageRequestsPatch
+[Info   :ModulePatch] Enabled patch DisableGameModeAdjustButtonPatch
+[Info   :ModulePatch] Enabled patch FixPmcSpawnParamsNullErrorPatch
+[Info   :ModulePatch] Enabled patch SetPreRaidSettingsScreenDefaultsPatch
+[Info   :ModulePatch] Enabled patch CoreDifficultyPatch
+[Info   :ModulePatch] Enabled patch BotDifficultyPatch
+[Info   :ModulePatch] Enabled patch VersionLabelPatch
+[Info   :ModulePatch] Enabled patch FixScavWarNullErrorWithMarkOfUnknownPatch
+[Info   :ModulePatch] Enabled patch MergeScavPmcQuestsOnInventoryLoadPatch
+[Info   :ModulePatch] Enabled patch CopyPmcQuestsAndWishlistToPlayerScavPatch
+[Info   :ModulePatch] Enabled patch FixBossesHavingNoFollowersOnMediumAiAmount
+[Info   :ModulePatch] Enabled patch FixAirdropCrashPatch
+[Info   :ModulePatch] Enabled patch FixAirdropFlareDisposePatch
+[Info   :ModulePatch] Enabled patch AllowAirdropsInPvEPatch
+[Info   :ModulePatch] Enabled patch MemoryCollectionPatch
+[Info   :ModulePatch] Enabled patch BotsControllerInitPatch
+[Info   :ModulePatch] Enabled patch BotsEventsControllerActivatePatch
+[Info   :ModulePatch] Enabled patch EnablePrestigeTabPatch
+[Info   :ModulePatch] Enabled patch MatchStartServerLocationPatch
+[Info   :ModulePatch] Enabled patch SpawnPointAIPlayerBotLimitPatch
+[Info   :ModulePatch] Enabled patch SpawnPointNearestPlayerAIPatch
+[Info   :SPT.Custom] Completed: SPT.Custom
+[Info   :   BepInEx] Loading [SPT.Singleplayer 3.11.4]
+[Info   :SPT.Singleplayer] Loading: SPT.SinglePlayer
+[Info   :ModulePatch] Enabled patch TinnitusFixPatch
+[Info   :ModulePatch] Enabled patch EmptyInfilFixPatch
+[Info   :ModulePatch] Enabled patch OverrideMaxAiAliveInRaidValuePatch
+[Info   :ModulePatch] Enabled patch FixPostScavRaidXpShowingZeroPatch
+[Info   :ModulePatch] Enabled patch DisablePMCExtractsForScavsPatch
+[Info   :ModulePatch] Enabled patch ScavExfilPatch
+[Info   :ModulePatch] Enabled patch ScavProfileLoadPatch
+[Info   :ModulePatch] Enabled patch ScavPrefabLoadPatch
+[Info   :ModulePatch] Enabled patch DisableReadyLocationReadyPatch
+[Info   :ModulePatch] Enabled patch LoadOfflineRaidScreenPatch
+[Info   :ModulePatch] Enabled patch AmmoUsedCounterPatch
+[Info   :ModulePatch] Enabled patch PluginErrorNotifierPatch
+[Info   :ModulePatch] Enabled patch MapReadyButtonPatch
+[Info   :ModulePatch] Enabled patch RemoveUsedBotProfilePatch
+[Info   :ModulePatch] Enabled patch ScavLateStartPatch
+[Info   :ModulePatch] Enabled patch ScavSellAllPriceStorePatch
+[Info   :ModulePatch] Enabled patch ScavSellAllRequestPatch
+[Info   :ModulePatch] Enabled patch ScavRepAdjustmentPatch
+[Info   :ModulePatch] Enabled patch DisableWelcomeToPVEModeMessagePatch
+[Info   :ModulePatch] Enabled patch DisableMatchmakerPlayerPreviewButtonsPatch
+[Info   :ModulePatch] Enabled patch EnableRefForPVEPatch
+[Info   :ModulePatch] Enabled patch EnableRefIntermScreenPatch
+[Info   :ModulePatch] Enabled patch EnablePlayerScavPatch
+[Info   :ModulePatch] Enabled patch ScavFoundInRaidPatch
+[Info   :ModulePatch] Enabled patch GetProfileAtEndOfRaidPatch
+[Info   :ModulePatch] Enabled patch SendPlayerScavProfileToServerAfterRaidPatch
+[Info   :ModulePatch] Enabled patch RemoveStashUpgradeLabelPatch
+[Info   :ModulePatch] Enabled patch RemoveClothingItemExternalObtainLabelPatch
+[Info   :ModulePatch] Enabled patch ForceRaidModeToLocalPatch
+[Info   :ModulePatch] Enabled patch ScavIsPlayerEnemyPatch
+[Info   :ModulePatch] Enabled patch FirearmControllerShowIncompatibleNotificationClass
+[Info   :ModulePatch] Enabled patch FixKeyAlreadyExistsErrorOnAchievementPatch
+[Info   :ModulePatch] Enabled patch ScavPrestigeFixPatch
+[Info   :ModulePatch] Enabled patch DisableDevMaskCheckPatch
+[Info   :ModulePatch] Enabled patch RemoveStopwatchAllocationsEveryBotFramePatch
+[Info   :ModulePatch] Enabled patch RemoveStopwatchAllocationsEveryCoverPointFramePatch
+[Info   :ModulePatch] Enabled patch DisableUseBSGServersCheckbox
+[Info   :ModulePatch] Enabled patch PmcBotSidePatch
+[Info   :ModulePatch] Enabled patch QuestAchievementRewardInRaidPatch
+[Info   :ModulePatch] Enabled patch FixUnityWarningSpamFromAirdropsPatch
+[Info   :SPT.Singleplayer] Completed: SPT.SinglePlayer
+[Info   :   BepInEx] Loading [SPT.Core 3.11.4]
+[Info   :  SPT.Core] Loading: SPT.Core
+[Info   :ModulePatch] Enabled patch ConsistencySinglePatch
+[Info   :ModulePatch] Enabled patch ConsistencyMultiPatch
+[Info   :ModulePatch] Enabled patch GameValidationPatch
+[Info   :ModulePatch] Enabled patch BattlEyePatch
+[Info   :ModulePatch] Enabled patch SslCertificatePatch
+[Info   :ModulePatch] Enabled patch UnityWebRequestPatch
+[Info   :ModulePatch] Enabled patch WebSocketSslValidationPatch
+[Info   :  SPT.Core] Completed: SPT.Core
+[Info   :   BepInEx] Loading [SPT.Debugging 3.11.4]
+[Info   :SPT.Debugging] Loading: SPT.Debugging
+[Info   :ModulePatch] Enabled patch EndRaidDebug
+[Info   :ModulePatch] Enabled patch LoggerClassLogPatch
+[Info   :ModulePatch] Enabled patch ReloadClientPatch
+[Info   :ModulePatch] Enabled patch EnableDebugCommandsPatch
+[Info   :SPT.Debugging] Completed: SPT.Debugging
+[Info   :   BepInEx] Loading [Fika.Core 1.2.8]
+[Info   : Fika.Core] Received NatPunchServer config from server:
+[Info   : Fika.Core] Enable: False
+[Info   : Fika.Core] Port: 6790
+[Info   : Fika.Core] NatIntroduceAmount: 1
+[Info   : FikaPatch] Enabled patch FikaVersionLabel_Patch
+[Info   : FikaPatch] Enabled patch DisableMatchSettingsReadyButton_Patch
+[Info   : FikaPatch] Enabled patch DisableReadyButton_Patch
+[Info   : FikaPatch] Enabled patch AchievementsScreen_Show_Patch
+[Info   : FikaPatch] Enabled patch AchievementView_Show_Patch
+[Info   : FikaPatch] Enabled patch ChangeGameModeButton_Patch
+[Info   : FikaPatch] Enabled patch CoopSettingsWindow_Show_Patch
+[Info   : FikaPatch] Enabled patch DisableInsuranceReadyButton_Patch
+[Info   : FikaPatch] Enabled patch DisconnectButton_Patch
+[Info   : FikaPatch] Enabled patch MainMenuControllerClass_method_52_Patch
+[Info   : FikaPatch] Enabled patch GClass3581_ShowAction_Patch
+[Info   : FikaPatch] Enabled patch HideoutPlayerOwner_SetPointOfView_Patch
+[Info   : FikaPatch] Enabled patch MenuScreen_Awake_Patch
+[Info   : FikaPatch] Enabled patch MenuScreen_method_9_Patch
+[Info   : FikaPatch] Enabled patch RagfairScreen_Show_Patch
+[Info   : FikaPatch] Enabled patch MatchmakerOfflineRaidScreen_Show_Patch
+[Info   : FikaPatch] Enabled patch MatchmakerOfflineRaidScreen_Close_Patch
+[Info   : FikaPatch] Enabled patch MatchmakerPlayerControllerClass_GetCoopBlockReason_Patch
+[Info   : FikaPatch] Enabled patch MenuTaskBar_Patch
+[Info   : FikaPatch] Enabled patch PartyInfoPanel_Show_Patch
+[Info   : FikaPatch] Enabled patch RaidSettingsWindow_method_8_Patch
+[Info   : FikaPatch] Enabled patch RaidSettingsWindow_Show_Patch
+[Info   : FikaPatch] Enabled patch SessionResultExitStatus_Show_Patch
+[Info   : FikaPatch] Enabled patch TarkovApplication_method_18_Patch
+[Info   : FikaPatch] Enabled patch MatchmakerAcceptScreen_Awake_Patch
+[Info   : FikaPatch] Enabled patch MatchmakerAcceptScreen_Show_Patch
+[Info   : FikaPatch] Enabled patch AbstractGame_InRaid_Patch
+[Info   : FikaPatch] Enabled patch AIPlaceLogicPartisan_Dispose_Patch
+[Info   : FikaPatch] Enabled patch GClass2461_UpdateOfflineClientLogic_Patch
+[Info   : FikaPatch] Enabled patch GClass2462_UpdateOfflineClientLogic_Patch
+[Info   : FikaPatch] Enabled patch SyncObjectProcessorClass_GetSyncObjectStrategyByType_Patch
+[Info   : FikaPatch] Enabled patch GClass1395_Constructor_Patch
+[Info   : FikaPatch] Enabled patch GClass622_method_0_Patch
+[Info   : FikaPatch] Enabled patch GClass622_method_28_Patch
+[Info   : FikaPatch] Enabled patch BotCacher_Patch
+[Info   : FikaPatch] Enabled patch BotReload_method_1_Patch
+[Info   : FikaPatch] Enabled patch BTRControllerClass_Init_Patch
+[Info   : FikaPatch] Enabled patch BTRVehicle_method_38_Patch
+[Info   : FikaPatch] Enabled patch BTRView_GoIn_Patch
+[Info   : FikaPatch] Enabled patch BTRView_GoOut_Patch
+[Info   : FikaPatch] Enabled patch BTRView_SyncViewFromServer_Patch
+[Info   : FikaPatch] Enabled patch Player_UpdateBtrTraderServiceData_Patch
+[Info   : FikaPatch] Enabled patch WeaponManagerClass_method_13_Patch
+[Info   : FikaPatch] Enabled patch WeaponManagerClass_ValidateScopeSmoothZoomUpdate_Patch
+[Info   : FikaPatch] Enabled patch Class1391_ReloadBackendLocale_Patch
+[Info   : FikaPatch] Enabled patch GameWorld_Create_Patch
+[Info   : FikaPatch] Enabled patch GameWorld_ThrowItem_Patch
+[Info   : FikaPatch] Enabled patch GClass1675_method_9_Patch
+[Info   : FikaPatch] Enabled patch GClass2054_method_0_Patch
+[Info   : FikaPatch] Enabled patch GClass3371_ExceptAI_Patch
+[Info   : FikaPatch] Enabled patch GrenadeClass_Init_Patch
+[Info   : FikaPatch] Enabled patch BufferInnerZone_ChangePlayerAccessStatus_Patch
+[Info   : FikaPatch] Enabled patch BufferInnerZone_ChangeZoneInteractionAvailability_Patch
+[Info   : FikaPatch] Enabled patch BufferZoneControllerClass_method_1_Patch
+[Info   : FikaPatch] Enabled patch BufferZoneControllerClass_SetPlayerInZoneStatus_Patch
+[Info   : FikaPatch] Enabled patch BaseLocalGame_method_13_Patch
+[Info   : FikaPatch] Enabled patch NonWaveSpawnScenario_Patch
+[Info   : FikaPatch] Enabled patch TarkovApplication_LocalGameCreator_Patch
+[Info   : FikaPatch] Enabled patch TarkovApplication_LocalGamePreparer_Patch
+[Info   : FikaPatch] Enabled patch WaveSpawnScenario_Patch
+[Info   : FikaPatch] Enabled patch MineDirectional_OnTriggerEnter_Patch
+[Info   : FikaPatch] Enabled patch Minefield_method_2_Patch
+[Info   : FikaPatch] Enabled patch GetProfileAtEndOfRaidPatch_Override
+[Info   : FikaPatch] Enabled patch FixSavageInventoryScreenPatch_Override
+[Info   : FikaPatch] Enabled patch OfflineRaidSettingsMenuPatch_Override
+[Info   : FikaPatch] Enabled patch ScavProfileLoad_Override
+[Info   : FikaPatch] Enabled patch BodyPartCollider_SetUpPlayer_Patch
+[Info   : FikaPatch] Enabled patch Player_Hide_Patch
+[Info   : FikaPatch] Enabled patch Player_ManageAggressor_Patch
+[Info   : FikaPatch] Enabled patch Player_OnDead_Patch
+[Info   : FikaPatch] Enabled patch Player_SetDogtagInfo_Patch
+[Info   : FikaPatch] Enabled patch Player_SpawnInHands_Patch
+[Info   : FikaPatch] Enabled patch TransitControllerAbstractClass_Exist_Patch
+[Info   : FikaPatch] Enabled patch TripwireSynchronizableObject_method_11_Patch
+[Info   : FikaPatch] Enabled patch TripwireSynchronizableObject_method_6_Patch
+[Info   : FikaPatch] Enabled patch BasicMicrophoneCapture_UpdateSubscribers_Transpiler
+[Info   : FikaPatch] Enabled patch DissonanceComms_Start_Patch
+[Info   : FikaPatch] Enabled patch Player_IDissonancePlayerType_Patch
+[Info   : FikaPatch] Enabled patch Player_HasMarkOfUnknown_Patch
+[Info   : FikaPatch] Enabled patch OpticRetrice_UpdateTransform_Patch
+[Info   : FikaPatch] Enabled patch PlayerCameraController_LateUpdate_Transpiler
+[Info   : FikaPatch] Enabled patch DeathFade_Patch
+[Info   : FikaPatch] Enabled patch PlayEndGameSound_Patch
+[Info   : FikaPatch] Enabled patch PlayUISound_Patch
+[Info   : FikaPatch] Enabled patch BTRSide_AddPassenger_Patch
+[Info   : FikaPatch] Enabled patch BTRSide_RemovePassenger_Patch
+[Info   : FikaPatch] Enabled patch BTRSide_method_9_Patch
+[Info   : FikaPatch] Enabled patch LighthouseTraderZone_AddPlayer_Patch
+[Info   : FikaPatch] Enabled patch LighthouseTraderZone_RemovePlayer_Patch
+[Info   : FikaPatch] Enabled patch LighthouseTraderZone_Awake_Patch
+[Info   : FikaPatch] Enabled patch GClass436_Activate_Patch
+[Info   :Fika.Core PatchManager] Enabled 91 patches
+[Info   :ModulePatch] Disabled patch VersionLabelPatch
+[Info   :ModulePatch] Disabled patch AmmoUsedCounterPatch
+[Info   :ModulePatch] Disabled patch ArmorDamageCounterPatch
+[Info   :ModulePatch] Disabled patch ScavRepAdjustmentPatch
+[Info   :ModulePatch] Disabled patch GetProfileAtEndOfRaidPatch
+[Info   :ModulePatch] Disabled patch ScavExfilPatch
+[Info   :ModulePatch] Disabled patch SendPlayerScavProfileToServerAfterRaidPatch
+[Info   :ModulePatch] Disabled patch MatchStartServerLocationPatch
+[Info   :ModulePatch] Disabled patch QuestAchievementRewardInRaidPatch
+[Info   : Fika.Core] Received config from server:
+[Info   : Fika.Core] Fika is loaded! Running version: 1.2.8.0
+[Info   :RequestHandler] [REQUEST]: /singleplayer/settings/bot/difficulty/core/core
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/settings/bot/difficulty/core/core
+[Info   : FikaPatch] Enabled patch ItemContext_Patch
+[Info   :   BepInEx] Loading [IcyClawz.ItemSellPrice 1.6.0]
+[Info   :ModulePatch] Enabled patch TraderPatch
+[Info   :ModulePatch] Enabled patch ItemPatch
+[Info   :ModulePatch] Enabled patch AmmoItemPatch
+[Info   :ModulePatch] Enabled patch ThrowWeapItemPatch
+[Info   :   BepInEx] Loading [BossNotifier 1.6.0]
+[Warning:  HarmonyX] AccessTools.Field: Could not find field for type Fika.Core.Coop.Utils.FikaBackendUtils and name MatchingType
+[Info   :ModulePatch] Enabled patch BossLocationSpawnPatch
+[Info   :ModulePatch] Enabled patch NewGamePatch
+[Info   :ModulePatch] Enabled patch BotBossPatch
+[Info   :BossNotifier] Plugin BossNotifier is loaded!
+[Info   :   BepInEx] Loading [MoreCheckmarks 1.5.17]
+[Message:   BepInEx] Chainloader startup complete
+[Info   :RequestHandler] [REQUEST]: /singleplayer/settings/version
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/settings/version
+[Info   :RequestHandler] [REQUEST]: /singleplayer/release
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/release
+[Info   :RequestHandler] [REQUEST]: /singleplayer/moddedTraders
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/moddedTraders
+[Info   :RequestHandler] [REQUEST]: /singleplayer/enableBSGlogging
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/enableBSGlogging
+[Info   :MoreCheckmarks] MoreCheckmarks Started
+[Info   :MoreCheckmarks] Configs loaded
+[Info   :MoreCheckmarks] Assets loaded
+[Info   :MoreCheckmarks] Loading data
+[Info   :MoreCheckmarks] 	Quests
+[Info   :RequestHandler] [REQUEST]: /MoreCheckmarksRoutes/quests
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /MoreCheckmarksRoutes/quests
+[Info   :MoreCheckmarks] 	Items
+[Info   :RequestHandler] [REQUEST]: /MoreCheckmarksRoutes/items
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /MoreCheckmarksRoutes/items
+[Info   :MoreCheckmarks] 	Assorts
+[Info   :RequestHandler] [REQUEST]: /MoreCheckmarksRoutes/assorts
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /MoreCheckmarksRoutes/assorts
+[Info   :MoreCheckmarks] 	Productions
+[Info   :RequestHandler] [REQUEST]: /MoreCheckmarksRoutes/productions
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /MoreCheckmarksRoutes/productions
+[Info   :RequestHandler] [REQUEST]: /singleplayer/bundles
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/bundles
+[Info   : Fika.Core] Server version check passed. Expected: >2.4.7, received: 2.4.8
+[Info   :FikaModHandler] Loaded plugin: [Configuration Manager] with GUID [com.bepis.bepinex.configurationmanager] and crc32 [2453335703]
+[Info   :FikaModHandler] Loaded plugin: [SPT.Custom] with GUID [com.SPT.custom] and crc32 [3399705037]
+[Info   :FikaModHandler] Loaded plugin: [SPT.Singleplayer] with GUID [com.SPT.singleplayer] and crc32 [3754342796]
+[Info   :FikaModHandler] Loaded plugin: [SPT.Core] with GUID [com.SPT.core] and crc32 [1264669728]
+[Info   :FikaModHandler] Loaded plugin: [SPT.Debugging] with GUID [com.SPT.debugging] and crc32 [317608745]
+[Info   :FikaModHandler] Loaded plugin: [Fika.Core] with GUID [com.fika.core] and crc32 [3233123487]
+[Info   :FikaModHandler] Loaded plugin: [IcyClawz.ItemSellPrice] with GUID [com.IcyClawz.ItemSellPrice] and crc32 [1975354360]
+[Info   :FikaModHandler] Loaded plugin: [BossNotifier] with GUID [Mattdokn.BossNotifier] and crc32 [987005380]
+[Info   :FikaModHandler] Loaded plugin: [MoreCheckmarks] with GUID [VIP.TommySoucy.MoreCheckmarks] and crc32 [4026413063]
+[Info   :RequestHandler] [REQUEST]: /fika/client/check/mods
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /fika/client/check/mods
+[Info   :FikaModHandler] UI Fixes is not loaded, enabling PartyInfoPanel fix
+[Info   : FikaPatch] Enabled patch PartyInfoPanel_method_3_Patch
+[Info   :RequestHandler] [REQUEST]: /singleplayer/settings/version
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/settings/version
+[Info   : FikaPatch] Server version: SPT 3.11.4 - c6a4e5
+[Info   : Fika.Core] Waiting for locales to be ready...
+[Info   :MoreCheckmarks] Loading data
+[Info   :MoreCheckmarks] 	Quests
+[Info   :RequestHandler] [REQUEST]: /MoreCheckmarksRoutes/quests
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /MoreCheckmarksRoutes/quests
+[Info   :MoreCheckmarks] 	Items
+[Info   :MoreCheckmarks] 	Assorts
+[Info   :RequestHandler] [REQUEST]: /MoreCheckmarksRoutes/assorts
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /MoreCheckmarksRoutes/assorts
+[Info   :MoreCheckmarks] 	Productions
+[Info   :RequestHandler] [REQUEST]: /MoreCheckmarksRoutes/productions
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /MoreCheckmarksRoutes/productions
+[Info   : Fika.Core] Locales are ready!
+[Info   : Fika.Core] Cached local IPs: 0.0.0.0, 26.193.240.138, 192.168.0.105, 172.30.75.47
+[Info   :RequestHandler] [REQUEST]: /singleplayer/log
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/log
+[Info   :RequestHandler] [REQUEST]: /singleplayer/log
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/log
+[Info   :RequestHandler] [REQUEST]: /singleplayer/log
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/log
+[Info   :MoreCheckmarks] Quest Только бизнес queststatus set to Started
+[Info   :MoreCheckmarks] Quest Первый в очереди queststatus set to Started
+[Info   :MoreCheckmarks] Quest Стрельба по баночкам queststatus set to AvailableForFinish
+[Info   :MoreCheckmarks] Quest По коням queststatus set to Started
+[Info   :MoreCheckmarks] Quest Спасение крота queststatus set to Started
+[Info   :MoreCheckmarks] Quest Закрыть небо queststatus set to AvailableForStart
+[Info   :MoreCheckmarks] Quest Устранение queststatus set to AvailableForFinish
+[Info   :MoreCheckmarks] Quest Выйти с локации queststatus set to Locked
+[Info   :MoreCheckmarks] Quest Выйти с локации queststatus set to AvailableForStart
+[Info   :MoreCheckmarks] Quest Найти и передать queststatus set to Locked
+[Info   :MoreCheckmarks] Quest Найти и передать queststatus set to AvailableForStart
+[Info   :MoreCheckmarks] Quest Выйти с локации queststatus set to Locked
+[Info   :MoreCheckmarks] Quest Выйти с локации queststatus set to AvailableForStart
+[Info   :MoreCheckmarks] Quest Устранение queststatus set to Locked
+[Info   :MoreCheckmarks] Quest Устранение queststatus set to AvailableForStart
+[Info   :MoreCheckmarks] Quest Выйти с локации queststatus set to Locked
+[Info   :MoreCheckmarks] Quest Выйти с локации queststatus set to AvailableForStart

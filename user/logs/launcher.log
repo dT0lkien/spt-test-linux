@@ -1,0 +1,16 @@
+[2025-09-18 12:21:51] ==== Launcher Started ====
+[2025-09-18 12:21:51][Info] Using launcher config at: C:\spter\user\launcher\config.json
+[2025-09-18 12:21:52][DEV_MODE][Info] Running in dev mode, not resetting
+[2025-09-18 12:21:52][DEV_MODE][Info] Connected to server: https://127.0.0.1:6969 - SPT MatchingVersion: 3.11.4
+[2025-09-18 12:21:57][DEV_MODE][Info] >>> Launching Game
+[2025-09-18 12:21:57][DEV_MODE][Info] >>> Account: Aboba
+[2025-09-18 12:21:57][DEV_MODE][Info] >>> Server : https://127.0.0.1:6969
+[2025-09-18 12:21:57][DEV_MODE][Info] [LaunchGame] spt-core.dll version: 3.11.4
+[2025-09-18 12:21:57][DEV_MODE][Info] [LaunchGame] Installed in Live :: NO
+[2025-09-18 12:21:57][DEV_MODE][Info] [LaunchGame] Setup Game Files ...
+[2025-09-18 12:21:57][DEV_MODE][Info] Recursive Removal: C:\spter\Logs
+[2025-09-18 12:21:57][DEV_MODE][Info] Recursive Removal: C:\spter\Logs\log_2025.09.18_9-08-38_0.16.1.3.35392
+[2025-09-18 12:21:57][DEV_MODE][Info] [LaunchGame] Game Validation   :: OK
+[2025-09-18 12:21:57][DEV_MODE][Info] [LaunchGame] Valid Game Path   :: OK
+[2025-09-18 12:21:58][DEV_MODE][Info] [LaunchGame] Applying Patch    :: OK
+[2025-09-18 12:21:58][DEV_MODE][Info] [LaunchGame] Game process started

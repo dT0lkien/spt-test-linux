@@ -1,0 +1,589 @@
+[2025-09-18T09:07:41.147Z] debug: 	Importing configs...
+[2025-09-18T09:07:41.311Z] info: 	Commit hash: c6a4e5ef8d77e5195dc2bc6449b9e69b19605474
+[2025-09-18T09:07:41.312Z] info: 	Build date: 1756748704968
+[2025-09-18T09:07:41.474Z] info: 	ModLoader: loading: 2 server mods...
+[2025-09-18T09:07:41.488Z] debug: 	ModLoader: Mod rairaitheraichu-ammostats is missing from order.json, adding
+[2025-09-18T09:07:41.505Z] info: 	Mod: MoreCheckmarksBackend version: 1.5.17 by: VIP loaded
+[2025-09-18T09:07:41.505Z] info: 	Mod: AmmoStats version: 3.2.0 by: RaiRaiTheRaichu loaded
+[2025-09-18T09:07:41.564Z] info: 	Server: executing startup callbacks...
+[2025-09-18T09:07:41.564Z] debug: 	OS: x64 | Windows 10 Pro | win32
+[2025-09-18T09:07:41.564Z] debug: 	CPU: AMD Ryzen 7 5700X 8-Core Processor              cores: 16
+[2025-09-18T09:07:41.565Z] debug: 	RAM: 31.95GB
+[2025-09-18T09:07:41.565Z] debug: 	PATH: Qzpcc3B0ZXJcU1BULlNlcnZlci5leGU=
+[2025-09-18T09:07:41.565Z] debug: 	PATH: Qzpcc3B0ZXJcU1BULlNlcnZlci5leGU=
+[2025-09-18T09:07:41.565Z] debug: 	Server: 3.11.4
+[2025-09-18T09:07:41.565Z] debug: 	Node: 22.12.0
+[2025-09-18T09:07:41.565Z] debug: 	Date: 1756748704968
+[2025-09-18T09:07:41.565Z] debug: 	Commit: c6a4e5ef8d77e5195dc2bc6449b9e69b19605474
+[2025-09-18T09:07:41.575Z] info: 	Importing database...
+[2025-09-18T09:07:45.813Z] info: 	Database import finished
+[2025-09-18T09:07:45.814Z] debug: 	Database import took 4.2381s
+[2025-09-18T09:07:45.829Z] debug: 	Database ID validation took 2.225ms
+[2025-09-18T09:07:45.879Z] succ: 	[AmmoStats]: Loaded successfully.
+[2025-09-18T09:07:45.927Z] succ: 	Started webserver at https://127.0.0.1:6969
+[2025-09-18T09:07:45.927Z] succ: 	Started websocket at wss://127.0.0.1:6969
+[2025-09-18T09:07:45.928Z] succ: 	Server is running, do not close while playing SPT, Server has started, happy playing!!
+[2025-09-18T09:07:45.940Z] debug: 	Profile backup created: user\profiles\backups\2025-09-18_12-07-45
+[2025-09-18T09:07:45.945Z] debug: 	Loading 1 profile took 4.965ms
+[2025-09-18T09:07:45.948Z] debug: 	Removed trader: 5c0647fdd443bc2504c2d371 purchase: 677536b9b06e57fd5c0e05c1 from profile: 68bece950000d5098b12a587
+[2025-09-18T09:07:45.949Z] debug: 	Removed trader: 54cb50c76803fa8b248b4571 purchase: 67877f78ecc0f8078906045d from profile: 68bece950000d5098b12a587
+[2025-09-18T09:07:45.949Z] debug: 	Removed trader: 54cb50c76803fa8b248b4571 purchase: 67877f74ecc0f807890602a6 from profile: 68bece950000d5098b12a587
+[2025-09-18T09:07:45.949Z] debug: 	Removed trader: 54cb50c76803fa8b248b4571 purchase: 67877f76ecc0f8078906037a from profile: 68bece950000d5098b12a587
+[2025-09-18T09:07:45.949Z] debug: 	Removed trader: 54cb50c76803fa8b248b4571 purchase: 67877f70ecc0f8078906017a from profile: 68bece950000d5098b12a587
+[2025-09-18T09:07:45.949Z] debug: 	Removed trader: 54cb50c76803fa8b248b4571 purchase: 67877f70ecc0f80789060174 from profile: 68bece950000d5098b12a587
+[2025-09-18T09:07:46.361Z] debug: 	Removed trader: 58330581ace78e27b8b10cee purchase: 677536f07949f8788203702b from profile: 68bece950000d5098b12a587
+[2025-09-18T09:07:46.361Z] debug: 	Removed trader: 58330581ace78e27b8b10cee purchase: 677536f47949f8788203715c from profile: 68bece950000d5098b12a587
+[2025-09-18T09:07:46.361Z] debug: 	Removed trader: 58330581ace78e27b8b10cee purchase: 677536ef7949f87882036fb7 from profile: 68bece950000d5098b12a587
+[2025-09-18T09:07:46.361Z] debug: 	Removed trader: 58330581ace78e27b8b10cee purchase: 677536f07949f87882037031 from profile: 68bece950000d5098b12a587
+[2025-09-18T09:07:46.361Z] debug: 	Removed trader: 58330581ace78e27b8b10cee purchase: 677536fd7949f8788203741f from profile: 68bece950000d5098b12a587
+[2025-09-18T09:07:46.363Z] debug: 	Removed trader: 5ac3b934156ae10c4430e83c purchase: 67877f67ecc0f8078905fd3f from profile: 68bece950000d5098b12a587
+[2025-09-18T09:07:46.365Z] debug: 	Removed trader: 5ac3b934156ae10c4430e83c purchase: 67877f69ecc0f8078905fdc9 from profile: 68bece950000d5098b12a587
+[2025-09-18T09:07:54.942Z] debug: 	Found 2 insurance packages in profile 68bece950000d5098b12a587
+[2025-09-18T09:07:54.942Z] debug: 	Processing 2 insurance packages, which includes a total of 13 items, in profile 68bece950000d5098b12a587
+[2025-09-18T09:07:54.943Z] debug: 	Rolling "Kalashnikov AKS-74UN 5.45x39 assault rifle" with PRAPOR - Return 85% - Roll: 16.31 - Status: Keep
+[2025-09-18T09:07:54.943Z] debug: 	Rolling "AK-74 5.45x39 6L20 30-round magazine" with PRAPOR - Return 85% - Roll: 29.19 - Status: Keep
+[2025-09-18T09:07:54.943Z] debug: 	Processing attachments of parent "Kalashnikov AKS-74UN 5.45x39 assault rifle":
+[2025-09-18T09:07:54.944Z] debug: 	Number of attachments to be deleted: 0
+[2025-09-18T09:07:54.944Z] debug: 	Removed processed insurance package. Remaining packages: 1
+[2025-09-18T09:07:54.944Z] debug: 	Rolling "GSSh-01 active headset" with PRAPOR - Return 85% - Roll: 80.31 - Status: Keep
+[2025-09-18T09:07:54.944Z] debug: 	Rolling "AK-12 5.45x39 early model 30-round magazine" with PRAPOR - Return 85% - Roll: 6.82 - Status: Keep
+[2025-09-18T09:07:54.944Z] debug: 	Removed processed insurance package. Remaining packages: 0
+[2025-09-18T09:07:54.952Z] debug: 	Saving 1 profile took 7.122ms
+[2025-09-18T09:08:14.959Z] debug: 	Saving 1 profile took 4.938ms
+[2025-09-18T09:08:18.153Z] info: 	[Client Request] /launcher/server/connect
+[2025-09-18T09:08:18.170Z] info: 	[Client Request] /launcher/ping
+[2025-09-18T09:08:18.173Z] info: 	[Client Request] /launcher/server/version
+[2025-09-18T09:08:18.180Z] info: 	[Client Request] /files/launcher/bg.png
+[2025-09-18T09:08:18.190Z] info: 	[Client Request] /launcher/ping
+[2025-09-18T09:08:18.217Z] info: 	[Client Request] /launcher/profile/login
+[2025-09-18T09:08:18.220Z] info: 	[Client Request] /launcher/profile/get
+[2025-09-18T09:08:18.224Z] info: 	[Client Request] /launcher/profile/info
+[2025-09-18T09:08:18.231Z] info: 	[Client Request] /launcher/server/version
+[2025-09-18T09:08:18.236Z] info: 	[Client Request] /launcher/server/loadedServerMods
+[2025-09-18T09:08:18.243Z] info: 	[Client Request] /launcher/server/serverModsUsedByProfile
+[2025-09-18T09:08:18.246Z] info: 	[Client Request] /files/launcher/side_usec.png
+[2025-09-18T09:08:18.251Z] info: 	[Client Request] /launcher/profile/login
+[2025-09-18T09:08:18.253Z] info: 	[Client Request] /launcher/profile/get
+[2025-09-18T09:08:18.256Z] info: 	[Client Request] /launcher/profile/info
+[2025-09-18T09:08:18.258Z] info: 	[Client Request] /launcher/server/version
+[2025-09-18T09:08:21.056Z] info: 	[Client Request] /launcher/profile/login
+[2025-09-18T09:08:21.058Z] info: 	[Client Request] /launcher/profile/get
+[2025-09-18T09:08:21.060Z] info: 	[Client Request] /launcher/profile/info
+[2025-09-18T09:08:21.062Z] info: 	[Client Request] /launcher/server/version
+[2025-09-18T09:08:21.073Z] info: 	[Client Request] /launcher/server/version
+[2025-09-18T09:08:34.993Z] debug: 	Saving 1 profile took 3.622ms
+[2025-09-18T09:08:35.950Z] info: 	[Client Request] /singleplayer/bosstypes
+[2025-09-18T09:08:36.875Z] info: 	[Client Request] /fika/natpunchserver/config
+[2025-09-18T09:08:36.877Z] error: 	[UNHANDLED][/fika/natpunchserver/config]
+[2025-09-18T09:08:36.878Z] info: 	[object Object]
+[2025-09-18T09:08:37.349Z] info: 	[Client Request] /fika/client/config
+[2025-09-18T09:08:37.350Z] error: 	[UNHANDLED][/fika/client/config]
+[2025-09-18T09:08:37.350Z] info: 	[object Object]
+[2025-09-18T09:08:37.388Z] info: 	[Client Request] /singleplayer/settings/bot/difficulties/
+[2025-09-18T09:08:37.491Z] info: 	[Client Request] /singleplayer/settings/bot/difficulty/core/core
+[2025-09-18T09:08:40.946Z] info: 	[Client Request] /singleplayer/settings/version
+[2025-09-18T09:08:40.948Z] info: 	[Client Request] /singleplayer/release
+[2025-09-18T09:08:40.953Z] info: 	[Client Request] /singleplayer/moddedTraders
+[2025-09-18T09:08:40.958Z] info: 	[Client Request] /singleplayer/enableBSGlogging
+[2025-09-18T09:08:40.988Z] info: 	[Client Request] /MoreCheckmarksRoutes/quests
+[2025-09-18T09:08:40.989Z] info: 	MoreCheckmarks making quest data request
+[2025-09-18T09:08:40.989Z] info: 	Got quests
+[2025-09-18T09:08:41.248Z] info: 	[Client Request] /MoreCheckmarksRoutes/items
+[2025-09-18T09:08:41.249Z] info: 	MoreCheckmarks making item data request
+[2025-09-18T09:08:42.308Z] info: 	[Client Request] /MoreCheckmarksRoutes/assorts
+[2025-09-18T09:08:42.309Z] info: 	MoreCheckmarks making trader assort data request
+[2025-09-18T09:08:42.449Z] info: 	[Client Request] /MoreCheckmarksRoutes/productions
+[2025-09-18T09:08:42.450Z] info: 	MoreCheckmarks making productions request
+[2025-09-18T09:08:42.968Z] info: 	[Client Request] /singleplayer/bundles
+[2025-09-18T09:08:43.517Z] info: 	[Client Request] /fika/client/check/version
+[2025-09-18T09:08:43.518Z] error: 	[UNHANDLED][/fika/client/check/version]
+[2025-09-18T09:08:43.518Z] info: 	[object Object]
+[2025-09-18T09:08:43.543Z] info: 	[Client Request] /fika/client/check/mods
+[2025-09-18T09:08:43.547Z] error: 	[UNHANDLED][/fika/client/check/mods]
+[2025-09-18T09:08:43.565Z] info: 	[object Object]
+[2025-09-18T09:08:50.010Z] debug: 	Saving 1 profile took 2.959ms
+[2025-09-18T09:09:06.463Z] info: 	[Client Request] /launcher/profile/info
+[2025-09-18T09:09:06.466Z] info: 	[Client Request] /launcher/server/version
+[2025-09-18T09:09:10.022Z] debug: 	Saving 1 profile took 3.235ms
+[2025-09-18T09:09:30.050Z] debug: 	Saving 1 profile took 3.876ms
+[2025-09-18T09:09:50.054Z] debug: 	Saving 1 profile took 3.073ms
+[2025-09-18T09:10:10.081Z] debug: 	Saving 1 profile took 2.901ms
+[2025-09-18T09:10:30.097Z] debug: 	Saving 1 profile took 3.159ms
+[2025-09-18T09:10:50.101Z] debug: 	Saving 1 profile took 2.766ms
+[2025-09-18T09:11:10.117Z] debug: 	Saving 1 profile took 2.89ms
+[2025-09-18T09:11:30.128Z] debug: 	Saving 1 profile took 2.718ms
+[2025-09-18T09:11:50.173Z] debug: 	Saving 1 profile took 2.752ms
+[2025-09-18T09:12:10.165Z] debug: 	Saving 1 profile took 2.835ms
+[2025-09-18T09:12:30.192Z] debug: 	Saving 1 profile took 3.053ms
+[2025-09-18T09:12:50.208Z] debug: 	Saving 1 profile took 2.932ms
+[2025-09-18T09:13:10.246Z] debug: 	Saving 1 profile took 2.757ms
+[2025-09-18T09:13:30.257Z] debug: 	Saving 1 profile took 3.157ms
+[2025-09-18T09:13:50.272Z] debug: 	Saving 1 profile took 2.713ms
+[2025-09-18T09:14:10.283Z] debug: 	Saving 1 profile took 2.928ms
+[2025-09-18T09:14:30.299Z] debug: 	Saving 1 profile took 2.837ms
+[2025-09-18T09:14:50.309Z] debug: 	Saving 1 profile took 2.866ms
+[2025-09-18T09:15:10.337Z] debug: 	Saving 1 profile took 3.159ms
+[2025-09-18T09:15:30.361Z] debug: 	Saving 1 profile took 6.562ms
+[2025-09-18T09:15:50.368Z] debug: 	Saving 1 profile took 2.751ms
+[2025-09-18T09:16:10.378Z] debug: 	Saving 1 profile took 2.744ms
+[2025-09-18T09:16:30.394Z] debug: 	Saving 1 profile took 3.047ms
+[2025-09-18T09:16:50.404Z] debug: 	Saving 1 profile took 2.712ms
+[2025-09-18T09:17:10.420Z] debug: 	Saving 1 profile took 2.827ms
+[2025-09-18T09:17:30.437Z] debug: 	Saving 1 profile took 3.685ms
+[2025-09-18T09:17:50.453Z] debug: 	Saving 1 profile took 3.253ms
+[2025-09-18T09:18:10.474Z] debug: 	Saving 1 profile took 2.74ms
+[2025-09-18T09:18:30.479Z] debug: 	Saving 1 profile took 2.839ms
+[2025-09-18T09:18:50.495Z] debug: 	Saving 1 profile took 3.673ms
+[2025-09-18T09:19:10.505Z] debug: 	Saving 1 profile took 2.862ms
+[2025-09-18T09:19:30.530Z] debug: 	Saving 1 profile took 2.698ms
+[2025-09-18T09:19:50.546Z] debug: 	Saving 1 profile took 2.806ms
+[2025-09-18T09:20:10.565Z] debug: 	Saving 1 profile took 2.757ms
+[2025-09-18T09:20:30.596Z] debug: 	Saving 1 profile took 2.788ms
+[2025-09-18T09:20:50.595Z] debug: 	Saving 1 profile took 2.593ms
+[2025-09-18T09:21:10.615Z] debug: 	Saving 1 profile took 2.683ms
+[2025-09-18T09:21:30.657Z] debug: 	Saving 1 profile took 3.464ms
+[2025-09-18T09:21:36.814Z] debug: 	Importing configs...
+[2025-09-18T09:21:36.857Z] info: 	Commit hash: c6a4e5ef8d77e5195dc2bc6449b9e69b19605474
+[2025-09-18T09:21:36.857Z] info: 	Build date: 1756748704968
+[2025-09-18T09:21:36.886Z] info: 	ModLoader: loading: 3 server mods...
+[2025-09-18T09:21:36.900Z] debug: 	ModLoader: Mod fika-server is missing from order.json, adding
+[2025-09-18T09:21:36.900Z] debug: 	ModLoader: Mod rairaitheraichu-ammostats is missing from order.json, adding
+[2025-09-18T09:21:37.465Z] debug: 	Mod fika-server hash stored in ./user/cache/modCache.json
+[2025-09-18T09:21:38.325Z] info: 	Mod: MoreCheckmarksBackend version: 1.5.17 by: VIP loaded
+[2025-09-18T09:21:38.325Z] info: 	Mod: server version: 2.4.8 by: Fika loaded
+[2025-09-18T09:21:38.325Z] info: 	Mod: AmmoStats version: 3.2.0 by: RaiRaiTheRaichu loaded
+[2025-09-18T09:21:38.426Z] info: 	[Fika Server] Overriding SPT configuration
+[2025-09-18T09:21:38.441Z] info: 	Server: executing startup callbacks...
+[2025-09-18T09:21:38.441Z] debug: 	OS: x64 | Windows 10 Pro | win32
+[2025-09-18T09:21:38.442Z] debug: 	CPU: AMD Ryzen 7 5700X 8-Core Processor              cores: 16
+[2025-09-18T09:21:38.442Z] debug: 	RAM: 31.95GB
+[2025-09-18T09:21:38.442Z] debug: 	PATH: Qzpcc3B0ZXJcU1BULlNlcnZlci5leGU=
+[2025-09-18T09:21:38.442Z] debug: 	PATH: Qzpcc3B0ZXJcU1BULlNlcnZlci5leGU=
+[2025-09-18T09:21:38.442Z] debug: 	Server: 3.11.4
+[2025-09-18T09:21:38.442Z] debug: 	Node: 22.12.0
+[2025-09-18T09:21:38.442Z] debug: 	Date: 1756748704968
+[2025-09-18T09:21:38.442Z] debug: 	Commit: c6a4e5ef8d77e5195dc2bc6449b9e69b19605474
+[2025-09-18T09:21:38.443Z] info: 	Importing database...
+[2025-09-18T09:21:42.197Z] info: 	Database import finished
+[2025-09-18T09:21:42.197Z] debug: 	Database import took 3.754s
+[2025-09-18T09:21:42.214Z] debug: 	Database ID validation took 1.563ms
+[2025-09-18T09:21:42.254Z] succ: 	[AmmoStats]: Loaded successfully.
+[2025-09-18T09:21:42.286Z] succ: 	Started webserver at https://0.0.0.0:6969
+[2025-09-18T09:21:42.286Z] succ: 	Started websocket at wss://0.0.0.0:6969
+[2025-09-18T09:21:42.286Z] succ: 	Server is running, do not close while playing SPT, Server has started, happy playing!!
+[2025-09-18T09:21:42.290Z] debug: 	Profile backup created: user\profiles\backups\2025-09-18_12-21-42
+[2025-09-18T09:21:42.294Z] debug: 	Loading 1 profile took 3.175ms
+[2025-09-18T09:21:51.164Z] debug: 	Saving 1 profile took 5.909ms
+[2025-09-18T09:21:52.306Z] info: 	[Client Request] /launcher/server/connect
+[2025-09-18T09:21:52.324Z] info: 	[Client Request] /launcher/ping
+[2025-09-18T09:21:52.326Z] info: 	[Client Request] /launcher/server/version
+[2025-09-18T09:21:52.333Z] info: 	[Client Request] /files/launcher/bg.png
+[2025-09-18T09:21:52.354Z] info: 	[Client Request] /launcher/ping
+[2025-09-18T09:21:52.398Z] info: 	[Client Request] /launcher/profile/login
+[2025-09-18T09:21:52.401Z] info: 	[Client Request] /launcher/profile/get
+[2025-09-18T09:21:52.404Z] info: 	[Client Request] /launcher/profile/info
+[2025-09-18T09:21:52.410Z] info: 	[Client Request] /launcher/server/version
+[2025-09-18T09:21:52.498Z] info: 	[Client Request] /launcher/server/loadedServerMods
+[2025-09-18T09:21:52.504Z] info: 	[Client Request] /launcher/server/serverModsUsedByProfile
+[2025-09-18T09:21:52.507Z] info: 	[Client Request] /files/launcher/side_usec.png
+[2025-09-18T09:21:52.514Z] info: 	[Client Request] /launcher/profile/login
+[2025-09-18T09:21:52.515Z] info: 	[Client Request] /launcher/profile/get
+[2025-09-18T09:21:52.517Z] info: 	[Client Request] /launcher/profile/info
+[2025-09-18T09:21:52.519Z] info: 	[Client Request] /launcher/server/version
+[2025-09-18T09:21:56.809Z] info: 	[Client Request] /launcher/profile/login
+[2025-09-18T09:21:56.811Z] info: 	[Client Request] /launcher/profile/get
+[2025-09-18T09:21:56.813Z] info: 	[Client Request] /launcher/profile/info
+[2025-09-18T09:21:56.815Z] info: 	[Client Request] /launcher/server/version
+[2025-09-18T09:21:57.559Z] info: 	[Client Request] /launcher/profile/login
+[2025-09-18T09:21:57.561Z] info: 	[Client Request] /launcher/profile/get
+[2025-09-18T09:21:57.563Z] info: 	[Client Request] /launcher/profile/info
+[2025-09-18T09:21:57.564Z] info: 	[Client Request] /launcher/server/version
+[2025-09-18T09:21:57.571Z] info: 	[Client Request] /launcher/server/version
+[2025-09-18T09:22:03.014Z] info: 	[Client Request] /singleplayer/bosstypes
+[2025-09-18T09:22:03.583Z] info: 	[Client Request] /fika/natpunchserver/config
+[2025-09-18T09:22:03.980Z] info: 	[Client Request] /fika/client/config
+[2025-09-18T09:22:04.019Z] info: 	[Client Request] /singleplayer/settings/bot/difficulties/
+[2025-09-18T09:22:04.157Z] info: 	[Client Request] /singleplayer/settings/bot/difficulty/core/core
+[2025-09-18T09:22:07.162Z] info: 	[Client Request] /singleplayer/settings/version
+[2025-09-18T09:22:07.164Z] info: 	[Client Request] /singleplayer/release
+[2025-09-18T09:22:07.168Z] info: 	[Client Request] /singleplayer/moddedTraders
+[2025-09-18T09:22:07.171Z] info: 	[Client Request] /singleplayer/enableBSGlogging
+[2025-09-18T09:22:07.189Z] info: 	[Client Request] /MoreCheckmarksRoutes/quests
+[2025-09-18T09:22:07.189Z] info: 	MoreCheckmarks making quest data request
+[2025-09-18T09:22:07.190Z] info: 	Got quests
+[2025-09-18T09:22:07.479Z] info: 	[Client Request] /MoreCheckmarksRoutes/items
+[2025-09-18T09:22:07.479Z] info: 	MoreCheckmarks making item data request
+[2025-09-18T09:22:08.383Z] info: 	[Client Request] /MoreCheckmarksRoutes/assorts
+[2025-09-18T09:22:08.384Z] info: 	MoreCheckmarks making trader assort data request
+[2025-09-18T09:22:08.557Z] info: 	[Client Request] /MoreCheckmarksRoutes/productions
+[2025-09-18T09:22:08.558Z] info: 	MoreCheckmarks making productions request
+[2025-09-18T09:22:09.057Z] info: 	[Client Request] /singleplayer/bundles
+[2025-09-18T09:22:10.059Z] info: 	[Client Request] /fika/client/check/version
+[2025-09-18T09:22:10.076Z] info: 	[Client Request] /fika/client/check/mods
+[2025-09-18T09:22:11.199Z] debug: 	Saving 1 profile took 3.166ms
+[2025-09-18T09:22:15.415Z] info: 	[Client Request] /singleplayer/settings/version
+[2025-09-18T09:22:15.513Z] info: 	[Client Request] /client/menu/locale/ru
+[2025-09-18T09:22:15.572Z] info: 	[Client Request] /client/game/mode
+[2025-09-18T09:22:15.627Z] info: 	[Client Request] /client/game/start
+[2025-09-18T09:22:15.628Z] debug: 	Started game with sessionId: 68bece950000d5098b12a587 Aboba
+[2025-09-18T09:22:15.630Z] debug: 	Quest production unlock validation took 0.069ms
+[2025-09-18T09:22:15.630Z] debug: 	Profile has level 1 area LAVATORY but no bonus found, adding UnlockArmorRepair
+[2025-09-18T09:22:15.630Z] debug: 	Adding bonus: UnlockArmorRepair to profile, value: 1
+[2025-09-18T09:22:15.630Z] debug: 	Profile has level 2 area LAVATORY but no bonus found, adding RepairArmorBonus
+[2025-09-18T09:22:15.630Z] debug: 	Adding bonus: RepairArmorBonus to profile, value: 3
+[2025-09-18T09:22:15.630Z] debug: 	Profile has level 3 area LAVATORY but no bonus found, adding RepairArmorBonus
+[2025-09-18T09:22:15.630Z] debug: 	Adding bonus: RepairArmorBonus to profile, value: 6
+[2025-09-18T09:22:15.630Z] debug: 	Profile has level 1 area GENERATOR but no bonus found, adding AdditionalSlots
+[2025-09-18T09:22:15.630Z] debug: 	Adding bonus: AdditionalSlots to profile, value: 2
+[2025-09-18T09:22:15.630Z] debug: 	Profile has level 2 area GENERATOR but no bonus found, adding AdditionalSlots
+[2025-09-18T09:22:15.630Z] debug: 	Adding bonus: AdditionalSlots to profile, value: 2
+[2025-09-18T09:22:15.630Z] debug: 	Profile has level 3 area GENERATOR but no bonus found, adding AdditionalSlots
+[2025-09-18T09:22:15.630Z] debug: 	Adding bonus: AdditionalSlots to profile, value: 2
+[2025-09-18T09:22:15.630Z] debug: 	Profile has level 1 area HEATING but no bonus found, adding EnergyRegeneration
+[2025-09-18T09:22:15.630Z] debug: 	Adding bonus: EnergyRegeneration to profile, value: 4
+[2025-09-18T09:22:15.631Z] debug: 	Profile has level 2 area HEATING but no bonus found, adding EnergyRegeneration
+[2025-09-18T09:22:15.631Z] debug: 	Adding bonus: EnergyRegeneration to profile, value: 8
+[2025-09-18T09:22:15.631Z] debug: 	Profile has level 3 area HEATING but no bonus found, adding EnergyRegeneration
+[2025-09-18T09:22:15.631Z] debug: 	Adding bonus: EnergyRegeneration to profile, value: 12
+[2025-09-18T09:22:15.631Z] debug: 	Profile has level 3 area HEATING but no bonus found, adding DebuffEndDelay
+[2025-09-18T09:22:15.631Z] debug: 	Adding bonus: DebuffEndDelay to profile, value: -50
+[2025-09-18T09:22:15.631Z] debug: 	Profile has level 1 area WATER_COLLECTOR but no bonus found, adding HydrationRegeneration
+[2025-09-18T09:22:15.631Z] debug: 	Adding bonus: HydrationRegeneration to profile, value: 10
+[2025-09-18T09:22:15.631Z] debug: 	Profile has level 2 area WATER_COLLECTOR but no bonus found, adding HydrationRegeneration
+[2025-09-18T09:22:15.631Z] debug: 	Adding bonus: HydrationRegeneration to profile, value: 20
+[2025-09-18T09:22:15.631Z] debug: 	Profile has level 3 area WATER_COLLECTOR but no bonus found, adding HydrationRegeneration
+[2025-09-18T09:22:15.631Z] debug: 	Adding bonus: HydrationRegeneration to profile, value: 30
+[2025-09-18T09:22:15.631Z] debug: 	Profile has level 3 area WATER_COLLECTOR but no bonus found, adding AdditionalSlots
+[2025-09-18T09:22:15.631Z] debug: 	Adding bonus: AdditionalSlots to profile, value: 1
+[2025-09-18T09:22:15.631Z] debug: 	Profile has level 3 area WATER_COLLECTOR but no bonus found, adding TextBonus
+[2025-09-18T09:22:15.631Z] debug: 	Adding bonus: TextBonus to profile, value: 0
+[2025-09-18T09:22:15.631Z] debug: 	Profile has level 1 area MEDSTATION but no bonus found, adding HealthRegeneration
+[2025-09-18T09:22:15.631Z] debug: 	Adding bonus: HealthRegeneration to profile, value: 6
+[2025-09-18T09:22:15.631Z] debug: 	Profile has level 1 area MEDSTATION but no bonus found, adding TextBonus
+[2025-09-18T09:22:15.631Z] debug: 	Adding bonus: TextBonus to profile, value: 0
+[2025-09-18T09:22:15.631Z] debug: 	Profile has level 2 area MEDSTATION but no bonus found, adding HealthRegeneration
+[2025-09-18T09:22:15.631Z] debug: 	Adding bonus: HealthRegeneration to profile, value: 12
+[2025-09-18T09:22:15.631Z] debug: 	Profile has level 3 area MEDSTATION but no bonus found, adding HealthRegeneration
+[2025-09-18T09:22:15.631Z] debug: 	Adding bonus: HealthRegeneration to profile, value: 20
+[2025-09-18T09:22:15.631Z] debug: 	Profile has level 1 area NUTRITION_UNIT but no bonus found, adding EnergyRegeneration
+[2025-09-18T09:22:15.631Z] debug: 	Adding bonus: EnergyRegeneration to profile, value: 10
+[2025-09-18T09:22:15.631Z] debug: 	Profile has level 2 area NUTRITION_UNIT but no bonus found, adding EnergyRegeneration
+[2025-09-18T09:22:15.632Z] debug: 	Adding bonus: EnergyRegeneration to profile, value: 20
+[2025-09-18T09:22:15.632Z] debug: 	Profile has level 2 area NUTRITION_UNIT but no bonus found, adding HealthRegeneration
+[2025-09-18T09:22:15.632Z] debug: 	Adding bonus: HealthRegeneration to profile, value: 7
+[2025-09-18T09:22:15.632Z] debug: 	Profile has level 3 area NUTRITION_UNIT but no bonus found, adding EnergyRegeneration
+[2025-09-18T09:22:15.632Z] debug: 	Adding bonus: EnergyRegeneration to profile, value: 30
+[2025-09-18T09:22:15.632Z] debug: 	Profile has level 3 area NUTRITION_UNIT but no bonus found, adding HydrationRegeneration
+[2025-09-18T09:22:15.632Z] debug: 	Adding bonus: HydrationRegeneration to profile, value: 20
+[2025-09-18T09:22:15.632Z] debug: 	Profile has level 1 area REST_SPACE but no bonus found, adding DebuffEndDelay
+[2025-09-18T09:22:15.632Z] debug: 	Adding bonus: DebuffEndDelay to profile, value: -10
+[2025-09-18T09:22:15.632Z] debug: 	Profile has level 2 area REST_SPACE but no bonus found, adding EnergyRegeneration
+[2025-09-18T09:22:15.632Z] debug: 	Adding bonus: EnergyRegeneration to profile, value: 5
+[2025-09-18T09:22:15.632Z] debug: 	Profile has level 2 area REST_SPACE but no bonus found, adding HealthRegeneration
+[2025-09-18T09:22:15.632Z] debug: 	Adding bonus: HealthRegeneration to profile, value: 5
+[2025-09-18T09:22:15.632Z] debug: 	Profile has level 3 area REST_SPACE but no bonus found, adding HealthRegeneration
+[2025-09-18T09:22:15.632Z] debug: 	Adding bonus: HealthRegeneration to profile, value: 10
+[2025-09-18T09:22:15.632Z] debug: 	Profile has level 3 area REST_SPACE but no bonus found, adding MaximumEnergyReserve
+[2025-09-18T09:22:15.632Z] debug: 	Adding bonus: MaximumEnergyReserve to profile, value: 10
+[2025-09-18T09:22:15.632Z] debug: 	Profile has level 1 area WORKBENCH but no bonus found, adding UnlockWeaponModification
+[2025-09-18T09:22:15.632Z] debug: 	Adding bonus: UnlockWeaponModification to profile, value: 1
+[2025-09-18T09:22:15.632Z] debug: 	Profile has level 1 area WORKBENCH but no bonus found, adding TextBonus
+[2025-09-18T09:22:15.632Z] debug: 	Adding bonus: TextBonus to profile, value: 0
+[2025-09-18T09:22:15.632Z] debug: 	Profile has level 1 area WORKBENCH but no bonus found, adding UnlockWeaponRepair
+[2025-09-18T09:22:15.632Z] debug: 	Adding bonus: UnlockWeaponRepair to profile, value: 1
+[2025-09-18T09:22:15.632Z] debug: 	Profile has level 2 area WORKBENCH but no bonus found, adding RepairWeaponBonus
+[2025-09-18T09:22:15.632Z] debug: 	Adding bonus: RepairWeaponBonus to profile, value: 3
+[2025-09-18T09:22:15.633Z] debug: 	Profile has level 3 area WORKBENCH but no bonus found, adding RepairWeaponBonus
+[2025-09-18T09:22:15.633Z] debug: 	Adding bonus: RepairWeaponBonus to profile, value: 6
+[2025-09-18T09:22:15.633Z] debug: 	Profile has level 1 area INTEL_CENTER but no bonus found, adding ScavCooldownTimer
+[2025-09-18T09:22:15.633Z] debug: 	Adding bonus: ScavCooldownTimer to profile, value: -15
+[2025-09-18T09:22:15.633Z] debug: 	Profile has level 1 area INTEL_CENTER but no bonus found, adding QuestMoneyReward
+[2025-09-18T09:22:15.633Z] debug: 	Adding bonus: QuestMoneyReward to profile, value: 5
+[2025-09-18T09:22:15.633Z] debug: 	Profile has level 2 area INTEL_CENTER but no bonus found, adding QuestMoneyReward
+[2025-09-18T09:22:15.633Z] debug: 	Adding bonus: QuestMoneyReward to profile, value: 10
+[2025-09-18T09:22:15.633Z] debug: 	Profile has level 2 area INTEL_CENTER but no bonus found, adding InsuranceReturnTime
+[2025-09-18T09:22:15.633Z] debug: 	Adding bonus: InsuranceReturnTime to profile, value: -20
+[2025-09-18T09:22:15.633Z] debug: 	Profile has level 3 area INTEL_CENTER but no bonus found, adding ScavCooldownTimer
+[2025-09-18T09:22:15.633Z] debug: 	Adding bonus: ScavCooldownTimer to profile, value: -20
+[2025-09-18T09:22:15.633Z] debug: 	Profile has level 3 area INTEL_CENTER but no bonus found, adding RagfairCommission
+[2025-09-18T09:22:15.633Z] debug: 	Adding bonus: RagfairCommission to profile, value: -30
+[2025-09-18T09:22:15.633Z] debug: 	Profile has level 1 area SHOOTING_RANGE but no bonus found, adding TextBonus
+[2025-09-18T09:22:15.633Z] debug: 	Adding bonus: TextBonus to profile, value: 0
+[2025-09-18T09:22:15.633Z] debug: 	Profile has level 3 area SHOOTING_RANGE but no bonus found, adding SkillGroupLevelingBoost
+[2025-09-18T09:22:15.633Z] debug: 	Adding bonus: SkillGroupLevelingBoost to profile, value: 10
+[2025-09-18T09:22:15.633Z] debug: 	Profile has level 1 area LIBRARY but no bonus found, adding ExperienceRate
+[2025-09-18T09:22:15.634Z] debug: 	Adding bonus: ExperienceRate to profile, value: 15
+[2025-09-18T09:22:15.634Z] debug: 	Profile has level 1 area LIBRARY but no bonus found, adding SkillGroupLevelingBoost
+[2025-09-18T09:22:15.634Z] debug: 	Adding bonus: SkillGroupLevelingBoost to profile, value: 30
+[2025-09-18T09:22:15.634Z] debug: 	Profile has level 1 area SCAV_CASE but no bonus found, adding TextBonus
+[2025-09-18T09:22:15.634Z] debug: 	Adding bonus: TextBonus to profile, value: 0
+[2025-09-18T09:22:15.634Z] debug: 	Profile has level 1 area PLACE_OF_FAME but no bonus found, adding SkillGroupLevelingBoost
+[2025-09-18T09:22:15.634Z] debug: 	Adding bonus: SkillGroupLevelingBoost to profile, value: 0
+[2025-09-18T09:22:15.634Z] debug: 	Profile has level 1 area PLACE_OF_FAME but no bonus found, adding TextBonus
+[2025-09-18T09:22:15.634Z] debug: 	Adding bonus: TextBonus to profile, value: 3
+[2025-09-18T09:22:15.634Z] debug: 	Profile has level 1 area PLACE_OF_FAME but no bonus found, adding TextBonus
+[2025-09-18T09:22:15.634Z] debug: 	Adding bonus: TextBonus to profile, value: 6
+[2025-09-18T09:22:15.634Z] debug: 	Profile has level 1 area PLACE_OF_FAME but no bonus found, adding TextBonus
+[2025-09-18T09:22:15.634Z] debug: 	Adding bonus: TextBonus to profile, value: 6
+[2025-09-18T09:22:15.634Z] debug: 	Profile has level 1 area AIR_FILTERING but no bonus found, adding SkillGroupLevelingBoost
+[2025-09-18T09:22:15.634Z] debug: 	Adding bonus: SkillGroupLevelingBoost to profile, value: 40
+[2025-09-18T09:22:15.634Z] debug: 	Profile has level 1 area AIR_FILTERING but no bonus found, adding AdditionalSlots
+[2025-09-18T09:22:15.634Z] debug: 	Adding bonus: AdditionalSlots to profile, value: 3
+[2025-09-18T09:22:15.634Z] debug: 	Profile has level 1 area SOLAR_POWER but no bonus found, adding FuelConsumption
+[2025-09-18T09:22:15.634Z] debug: 	Adding bonus: FuelConsumption to profile, value: -50
+[2025-09-18T09:22:15.634Z] debug: 	Profile has level 1 area BOOZE_GENERATOR but no bonus found, adding TextBonus
+[2025-09-18T09:22:15.634Z] debug: 	Adding bonus: TextBonus to profile, value: 0
+[2025-09-18T09:22:15.634Z] debug: 	Profile has level 1 area BITCOIN_FARM but no bonus found, adding AdditionalSlots
+[2025-09-18T09:22:15.634Z] debug: 	Adding bonus: AdditionalSlots to profile, value: 10
+[2025-09-18T09:22:15.634Z] debug: 	Profile has level 1 area BITCOIN_FARM but no bonus found, adding TextBonus
+[2025-09-18T09:22:15.634Z] debug: 	Adding bonus: TextBonus to profile, value: 0
+[2025-09-18T09:22:15.634Z] debug: 	Profile has level 2 area BITCOIN_FARM but no bonus found, adding AdditionalSlots
+[2025-09-18T09:22:15.634Z] debug: 	Adding bonus: AdditionalSlots to profile, value: 15
+[2025-09-18T09:22:15.635Z] debug: 	Profile has level 3 area BITCOIN_FARM but no bonus found, adding AdditionalSlots
+[2025-09-18T09:22:15.635Z] debug: 	Adding bonus: AdditionalSlots to profile, value: 25
+[2025-09-18T09:22:15.635Z] debug: 	Profile has level 2 area EMERGENCY_WALL but no bonus found, adding FuelConsumption
+[2025-09-18T09:22:15.635Z] debug: 	Adding bonus: FuelConsumption to profile, value: 5
+[2025-09-18T09:22:15.635Z] debug: 	Profile has level 2 area EMERGENCY_WALL but no bonus found, adding EnergyRegeneration
+[2025-09-18T09:22:15.635Z] debug: 	Adding bonus: EnergyRegeneration to profile, value: -5
+[2025-09-18T09:22:15.635Z] debug: 	Profile has level 2 area EMERGENCY_WALL but no bonus found, adding HealthRegeneration
+[2025-09-18T09:22:15.635Z] debug: 	Adding bonus: HealthRegeneration to profile, value: -5
+[2025-09-18T09:22:15.635Z] debug: 	Profile has level 2 area EMERGENCY_WALL but no bonus found, adding ExperienceRate
+[2025-09-18T09:22:15.635Z] debug: 	Adding bonus: ExperienceRate to profile, value: -3
+[2025-09-18T09:22:15.635Z] debug: 	Profile has level 2 area EMERGENCY_WALL but no bonus found, adding SkillGroupLevelingBoost
+[2025-09-18T09:22:15.635Z] debug: 	Adding bonus: SkillGroupLevelingBoost to profile, value: -3
+[2025-09-18T09:22:15.635Z] debug: 	Profile has level 3 area EMERGENCY_WALL but no bonus found, adding FuelConsumption
+[2025-09-18T09:22:15.635Z] debug: 	Adding bonus: FuelConsumption to profile, value: 5
+[2025-09-18T09:22:15.635Z] debug: 	Profile has level 3 area EMERGENCY_WALL but no bonus found, adding EnergyRegeneration
+[2025-09-18T09:22:15.635Z] debug: 	Adding bonus: EnergyRegeneration to profile, value: -5
+[2025-09-18T09:22:15.635Z] debug: 	Profile has level 3 area EMERGENCY_WALL but no bonus found, adding HealthRegeneration
+[2025-09-18T09:22:15.635Z] debug: 	Adding bonus: HealthRegeneration to profile, value: -5
+[2025-09-18T09:22:15.638Z] debug: 	Profile has level 3 area EMERGENCY_WALL but no bonus found, adding ExperienceRate
+[2025-09-18T09:22:15.638Z] debug: 	Adding bonus: ExperienceRate to profile, value: -3
+[2025-09-18T09:22:15.638Z] debug: 	Profile has level 3 area EMERGENCY_WALL but no bonus found, adding SkillGroupLevelingBoost
+[2025-09-18T09:22:15.638Z] debug: 	Adding bonus: SkillGroupLevelingBoost to profile, value: -3
+[2025-09-18T09:22:15.638Z] debug: 	Profile has level 4 area EMERGENCY_WALL but no bonus found, adding FuelConsumption
+[2025-09-18T09:22:15.638Z] debug: 	Adding bonus: FuelConsumption to profile, value: 5
+[2025-09-18T09:22:15.638Z] debug: 	Profile has level 4 area EMERGENCY_WALL but no bonus found, adding EnergyRegeneration
+[2025-09-18T09:22:15.638Z] debug: 	Adding bonus: EnergyRegeneration to profile, value: -5
+[2025-09-18T09:22:15.638Z] debug: 	Profile has level 4 area EMERGENCY_WALL but no bonus found, adding HealthRegeneration
+[2025-09-18T09:22:15.638Z] debug: 	Adding bonus: HealthRegeneration to profile, value: -5
+[2025-09-18T09:22:15.638Z] debug: 	Profile has level 4 area EMERGENCY_WALL but no bonus found, adding ExperienceRate
+[2025-09-18T09:22:15.638Z] debug: 	Adding bonus: ExperienceRate to profile, value: -3
+[2025-09-18T09:22:15.638Z] debug: 	Profile has level 4 area EMERGENCY_WALL but no bonus found, adding SkillGroupLevelingBoost
+[2025-09-18T09:22:15.638Z] debug: 	Adding bonus: SkillGroupLevelingBoost to profile, value: -3
+[2025-09-18T09:22:15.638Z] debug: 	Profile has level 5 area EMERGENCY_WALL but no bonus found, adding FuelConsumption
+[2025-09-18T09:22:15.638Z] debug: 	Adding bonus: FuelConsumption to profile, value: 5
+[2025-09-18T09:22:15.638Z] debug: 	Profile has level 5 area EMERGENCY_WALL but no bonus found, adding EnergyRegeneration
+[2025-09-18T09:22:15.638Z] debug: 	Adding bonus: EnergyRegeneration to profile, value: -5
+[2025-09-18T09:22:15.638Z] debug: 	Profile has level 5 area EMERGENCY_WALL but no bonus found, adding HealthRegeneration
+[2025-09-18T09:22:15.638Z] debug: 	Adding bonus: HealthRegeneration to profile, value: -5
+[2025-09-18T09:22:15.638Z] debug: 	Profile has level 5 area EMERGENCY_WALL but no bonus found, adding ExperienceRate
+[2025-09-18T09:22:15.638Z] debug: 	Adding bonus: ExperienceRate to profile, value: -3
+[2025-09-18T09:22:15.638Z] debug: 	Profile has level 5 area EMERGENCY_WALL but no bonus found, adding SkillGroupLevelingBoost
+[2025-09-18T09:22:15.638Z] debug: 	Adding bonus: SkillGroupLevelingBoost to profile, value: -3
+[2025-09-18T09:22:15.638Z] debug: 	Profile has level 6 area EMERGENCY_WALL but no bonus found, adding FuelConsumption
+[2025-09-18T09:22:15.639Z] debug: 	Adding bonus: FuelConsumption to profile, value: -20
+[2025-09-18T09:22:15.639Z] debug: 	Profile has level 6 area EMERGENCY_WALL but no bonus found, adding EnergyRegeneration
+[2025-09-18T09:22:15.639Z] debug: 	Adding bonus: EnergyRegeneration to profile, value: 20
+[2025-09-18T09:22:15.639Z] debug: 	Profile has level 6 area EMERGENCY_WALL but no bonus found, adding HealthRegeneration
+[2025-09-18T09:22:15.639Z] debug: 	Adding bonus: HealthRegeneration to profile, value: 20
+[2025-09-18T09:22:15.639Z] debug: 	Profile has level 6 area EMERGENCY_WALL but no bonus found, adding ExperienceRate
+[2025-09-18T09:22:15.639Z] debug: 	Adding bonus: ExperienceRate to profile, value: 12
+[2025-09-18T09:22:15.639Z] debug: 	Profile has level 6 area EMERGENCY_WALL but no bonus found, adding SkillGroupLevelingBoost
+[2025-09-18T09:22:15.639Z] debug: 	Adding bonus: SkillGroupLevelingBoost to profile, value: 12
+[2025-09-18T09:22:15.639Z] debug: 	Profile made with: 3.11.4 (35392)
+[2025-09-18T09:22:15.639Z] debug: 	Server version: 3.11.4 c6a4e5ef8d77e5195dc2bc6449b9e69b19605474
+[2025-09-18T09:22:15.639Z] debug: 	Debug enabled: false
+[2025-09-18T09:22:15.639Z] debug: 	Mods enabled: true
+[2025-09-18T09:22:15.708Z] info: 	[Client Request] /client/game/version/validate
+[2025-09-18T09:22:15.761Z] info: 	[Client Request] /client/languages
+[2025-09-18T09:22:15.820Z] info: 	[Client Request] /client/game/config
+[2025-09-18T09:22:17.648Z] info: 	[Client Request] /client/items
+[2025-09-18T09:22:23.166Z] info: 	[Client Request] /client/customization
+[2025-09-18T09:22:23.609Z] info: 	[Client Request] /client/customization/storage
+[2025-09-18T09:22:23.721Z] info: 	[Client Request] /client/globals
+[2025-09-18T09:22:23.740Z] info: 	[Client Request] /client/trading/api/traderSettings
+[2025-09-18T09:22:23.740Z] info: 	[Client Request] /client/prestige/list
+[2025-09-18T09:22:23.740Z] info: 	[Client Request] /client/settings
+[2025-09-18T09:22:24.294Z] info: 	[Client Request] /client/game/profile/list
+[2025-09-18T09:22:24.629Z] info: 	[Client Request] /client/game/profile/select
+[2025-09-18T09:22:24.686Z] info: 	[Client Request] /MoreCheckmarksRoutes/quests
+[2025-09-18T09:22:24.686Z] info: 	MoreCheckmarks making quest data request
+[2025-09-18T09:22:24.687Z] info: 	Got quests
+[2025-09-18T09:22:24.860Z] info: 	[Client Request] /MoreCheckmarksRoutes/assorts
+[2025-09-18T09:22:24.861Z] info: 	MoreCheckmarks making trader assort data request
+[2025-09-18T09:22:24.947Z] info: 	[Client Request] /MoreCheckmarksRoutes/productions
+[2025-09-18T09:22:24.948Z] info: 	MoreCheckmarks making productions request
+[2025-09-18T09:22:25.033Z] info: 	[Client Request] /client/items/prices/638f541a29ffd1183d187f57
+[2025-09-18T09:22:25.034Z] info: 	[Client Request] /client/items/prices/5ac3b934156ae10c4430e83c
+[2025-09-18T09:22:25.035Z] info: 	[Client Request] /client/items/prices/656f0f98d80a697f855d34b1
+[2025-09-18T09:22:25.035Z] info: 	[Client Request] /client/items/prices/579dc571d53a0658a154fbec
+[2025-09-18T09:22:25.035Z] info: 	[Client Request] /client/items/prices/5935c25fb3acc3127c3d8cd9
+[2025-09-18T09:22:25.035Z] info: 	[Client Request] /client/items/prices/54cb57776803fa99248b456e
+[2025-09-18T09:22:25.036Z] info: 	[Client Request] /client/items/prices/54cb50c76803fa8b248b4571
+[2025-09-18T09:22:25.036Z] info: 	[Client Request] /client/items/prices/6617beeaa9cfa777ca915b7c
+[2025-09-18T09:22:25.036Z] info: 	[Client Request] /client/items/prices/5c0647fdd443bc2504c2d371
+[2025-09-18T09:22:25.037Z] info: 	[Client Request] /client/items/prices/5a7c2eca46aef81a7ca2145d
+[2025-09-18T09:22:25.037Z] info: 	[Client Request] /client/profile/status
+[2025-09-18T09:22:25.037Z] info: 	[Client Request] /client/items/prices/58330581ace78e27b8b10cee
+[2025-09-18T09:22:25.043Z] warn: 	Trader: 638f541a29ffd1183d187f57 not found, generating temp entry with default refresh time of: 3600
+[2025-09-18T09:22:25.290Z] info: 	[Client Request] /client/weather
+[2025-09-18T09:22:25.300Z] info: 	[Client Request] /client/locale/ru
+[2025-09-18T09:22:25.301Z] info: 	[Client Request] /client/locations
+[2025-09-18T09:22:25.339Z] debug: 	Map: base has no base json file, skipping generation
+[2025-09-18T09:22:26.031Z] info: 	[Client Request] /client/handbook/templates
+[2025-09-18T09:22:27.513Z] info: 	[Client Request] /client/hideout/areas
+[2025-09-18T09:22:27.853Z] info: 	[Client Request] /client/hideout/qte/list
+[2025-09-18T09:22:27.963Z] info: 	[Client Request] /client/hideout/settings
+[2025-09-18T09:22:28.013Z] info: 	[Client Request] /client/hideout/production/recipes
+[2025-09-18T09:22:28.113Z] info: 	[Client Request] /client/hideout/customization/offer/list
+[2025-09-18T09:22:28.181Z] info: 	[Client Request] /client/builds/list
+[2025-09-18T09:22:28.277Z] debug: 	[Fika Notification Manager] User is 68bece950000d5098b12a587
+[2025-09-18T09:22:28.277Z] debug: 	[Fika Presence] Adding player: Aboba
+[2025-09-18T09:22:28.277Z] info: 	WebSocketHandler "Fika Notification Manager" connected
+[2025-09-18T09:22:29.874Z] info: 	[Client Request] /singleplayer/log
+[2025-09-18T09:22:29.875Z] debug: 	[SPT.Core] 1184960
+[2025-09-18T09:22:29.876Z] info: 	[Client Request] /singleplayer/log
+[2025-09-18T09:22:29.876Z] debug: 	[SPT.Core] 1247808
+[2025-09-18T09:22:29.877Z] info: 	[Client Request] /singleplayer/log
+[2025-09-18T09:22:29.877Z] debug: 	[SPT.Core] 0
+[2025-09-18T09:22:31.209Z] debug: 	Saving 1 profile took 6.381ms
+[2025-09-18T09:22:31.255Z] info: 	[Client Request] /client/notifier/channel/create
+[2025-09-18T09:22:31.285Z] info: 	[Client Request] /client/profile/status
+[2025-09-18T09:22:31.285Z] info: 	[Client Request] /client/server/list
+[2025-09-18T09:22:31.285Z] info: 	[Client Request] /client/match/group/current
+[2025-09-18T09:22:31.286Z] info: 	[Client Request] /client/friend/list
+[2025-09-18T09:22:31.286Z] info: 	[Client Request] /client/friend/request/list/inbox
+[2025-09-18T09:22:31.286Z] info: 	[Client Request] /client/mail/dialog/list
+[2025-09-18T09:22:31.286Z] info: 	[Client Request] /client/friend/request/list/outbox
+[2025-09-18T09:22:31.287Z] info: 	[Client Request] /client/quest/list
+[2025-09-18T09:22:31.349Z] info: 	[WS] Player: Aboba (68bece950000d5098b12a587) has connected
+[2025-09-18T09:22:31.350Z] info: 	WebSocketHandler "SPT WebSocket Handler" connected
+[2025-09-18T09:22:31.424Z] info: 	[Client Request] /client/achievement/statistic
+[2025-09-18T09:22:31.516Z] info: 	[Client Request] /client/achievement/list
+[2025-09-18T09:22:31.698Z] info: 	[Client Request] /client/repeatalbeQuests/activityPeriods
+[2025-09-18T09:22:31.698Z] debug: 	Generating new daily
+[2025-09-18T09:22:31.698Z] debug: 	Keeping repeatable quest: 68beced43ac5353d38034a11 in activeQuests since it is available to hand in
+[2025-09-18T09:22:31.715Z] debug: 	Generating: Daily quest for: 5a7c2eca46aef81a7ca2145d with budget: 14879 totalling: 2 items
+[2025-09-18T09:22:31.718Z] debug: 	Added item: 5c48a14f2e2216152006edd7 with price: 25995
+[2025-09-18T09:22:31.718Z] debug: 	Adding: 0.01 5a7c2eca46aef81a7ca2145d trader reputation reward
+[2025-09-18T09:22:31.750Z] debug: 	Generating: Daily quest for: 54cb57776803fa99248b456e with budget: 23671 totalling: 1 items
+[2025-09-18T09:22:31.750Z] debug: 	Added item: 573477e124597737dd42e191 with price: 13914
+[2025-09-18T09:22:31.750Z] debug: 	Reward pool empty with: 9757 roubles of budget remaining
+[2025-09-18T09:22:31.750Z] debug: 	Adding: 0.02 54cb57776803fa99248b456e trader reputation reward
+[2025-09-18T09:22:31.763Z] debug: 	Generating: Daily quest for: 5935c25fb3acc3127c3d8cd9 with budget: 6827 totalling: 1 items
+[2025-09-18T09:22:31.764Z] debug: 	Added item: 5fc382a9d724d907e2077dab with price: 4580
+[2025-09-18T09:22:31.764Z] debug: 	Reward pool empty with: 2247 roubles of budget remaining
+[2025-09-18T09:22:31.764Z] debug: 	Generating new weekly
+[2025-09-18T09:22:31.780Z] debug: 	Generating: Weekly quest for: 5ac3b934156ae10c4430e83c with budget: 55025 totalling: 3 items
+[2025-09-18T09:22:31.782Z] debug: 	Added item: 5b44d22286f774172b0c9de8 with price: 45900
+[2025-09-18T09:22:31.782Z] debug: 	Reward pool empty with: 9125 roubles of budget remaining
+[2025-09-18T09:22:31.782Z] debug: 	Adding: 0.02 5ac3b934156ae10c4430e83c trader reputation reward
+[2025-09-18T09:22:31.782Z] debug: 	Generating new daily_savage
+[2025-09-18T09:22:31.793Z] debug: 	Generating: Daily_Savage quest for: 579dc571d53a0658a154fbec with budget: 32003 totalling: 1 items
+[2025-09-18T09:22:31.794Z] debug: 	Added item: 6087e2a5232e5a31c233d552 with price: 39200
+[2025-09-18T09:22:31.794Z] debug: 	Adding: 0.03 579dc571d53a0658a154fbec trader reputation reward
+[2025-09-18T09:22:31.876Z] info: 	[Client Request] /client/survey
+[2025-09-18T09:22:32.299Z] info: 	[Client Request] /fika/presence/get
+[2025-09-18T09:22:42.245Z] info: 	[Client Request] /fika/presence/get
+[2025-09-18T09:22:51.237Z] debug: 	Saving 1 profile took 6.229ms
+[2025-09-18T09:22:52.262Z] info: 	[Client Request] /fika/presence/get
+[2025-09-18T09:22:58.025Z] info: 	[Client Request] /launcher/profile/info
+[2025-09-18T09:22:58.027Z] info: 	[Client Request] /launcher/server/version
+[2025-09-18T09:23:02.274Z] info: 	[Client Request] /fika/presence/get
+[2025-09-18T09:23:11.274Z] debug: 	Saving 1 profile took 7.263ms
+[2025-09-18T09:23:12.290Z] info: 	[Client Request] /fika/presence/get
+[2025-09-18T09:23:22.291Z] info: 	[Client Request] /fika/presence/get
+[2025-09-18T09:23:31.290Z] debug: 	Saving 1 profile took 6.32ms
+[2025-09-18T09:23:32.303Z] info: 	[Client Request] /fika/presence/get
+[2025-09-18T09:23:42.311Z] info: 	[Client Request] /fika/presence/get
+[2025-09-18T09:23:51.327Z] debug: 	Saving 1 profile took 6.396ms
+[2025-09-18T09:23:52.322Z] info: 	[Client Request] /fika/presence/get
+[2025-09-18T09:23:58.029Z] info: 	[Client Request] /launcher/profile/info
+[2025-09-18T09:23:58.031Z] info: 	[Client Request] /launcher/server/version
+[2025-09-18T09:24:01.359Z] debug: 	[WS] Pinging player: 68bece950000d5098b12a587
+[2025-09-18T09:24:02.333Z] info: 	[Client Request] /fika/presence/get
+[2025-09-18T09:24:11.353Z] debug: 	Saving 1 profile took 6.239ms
+[2025-09-18T09:24:12.347Z] info: 	[Client Request] /fika/presence/get
+[2025-09-18T09:24:22.360Z] info: 	[Client Request] /fika/presence/get
+[2025-09-18T09:24:31.373Z] debug: 	Saving 1 profile took 6.426ms
+[2025-09-18T09:24:32.370Z] info: 	[Client Request] /fika/presence/get
+[2025-09-18T09:24:42.382Z] info: 	[Client Request] /fika/presence/get
+[2025-09-18T09:24:51.390Z] debug: 	Saving 1 profile took 6.212ms
+[2025-09-18T09:24:51.914Z] info: 	[Client Request] /client/game/keepalive
+[2025-09-18T09:24:52.398Z] info: 	[Client Request] /fika/presence/get
+[2025-09-18T09:24:58.024Z] info: 	[Client Request] /launcher/profile/info
+[2025-09-18T09:24:58.027Z] info: 	[Client Request] /launcher/server/version
+[2025-09-18T09:25:02.410Z] info: 	[Client Request] /fika/presence/get
+[2025-09-18T09:25:11.420Z] debug: 	Saving 1 profile took 5.998ms
+[2025-09-18T09:25:12.421Z] info: 	[Client Request] /fika/presence/get
+[2025-09-18T09:25:22.436Z] info: 	[Client Request] /fika/presence/get
+[2025-09-18T09:25:31.359Z] debug: 	[WS] Pinging player: 68bece950000d5098b12a587
+[2025-09-18T09:25:31.451Z] debug: 	Saving 1 profile took 5.462ms
+[2025-09-18T09:25:32.446Z] info: 	[Client Request] /fika/presence/get
+[2025-09-18T09:25:42.448Z] info: 	[Client Request] /fika/presence/get
+[2025-09-18T09:25:51.468Z] debug: 	Saving 1 profile took 5.932ms
+[2025-09-18T09:25:52.462Z] info: 	[Client Request] /fika/presence/get
+[2025-09-18T09:25:58.033Z] info: 	[Client Request] /launcher/profile/info
+[2025-09-18T09:25:58.035Z] info: 	[Client Request] /launcher/server/version
+[2025-09-18T09:26:02.471Z] info: 	[Client Request] /fika/presence/get
+[2025-09-18T09:26:11.493Z] debug: 	Saving 1 profile took 5.497ms
+[2025-09-18T09:26:12.482Z] info: 	[Client Request] /fika/presence/get
+[2025-09-18T09:26:22.496Z] info: 	[Client Request] /fika/presence/get
+[2025-09-18T09:26:31.516Z] debug: 	Saving 1 profile took 5.929ms
+[2025-09-18T09:26:32.504Z] info: 	[Client Request] /fika/presence/get
+[2025-09-18T09:26:42.518Z] info: 	[Client Request] /fika/presence/get
+[2025-09-18T09:26:51.539Z] debug: 	Saving 1 profile took 6.084ms
+[2025-09-18T09:26:52.530Z] info: 	[Client Request] /fika/presence/get
+[2025-09-18T09:26:58.028Z] info: 	[Client Request] /launcher/profile/info
+[2025-09-18T09:26:58.030Z] info: 	[Client Request] /launcher/server/version
+[2025-09-18T09:27:01.360Z] debug: 	[WS] Pinging player: 68bece950000d5098b12a587
+[2025-09-18T09:27:02.541Z] info: 	[Client Request] /fika/presence/get
+[2025-09-18T09:27:11.570Z] debug: 	Saving 1 profile took 5.432ms
+[2025-09-18T09:27:11.949Z] info: 	[Client Request] /client/game/keepalive
+[2025-09-18T09:27:12.551Z] info: 	[Client Request] /fika/presence/get
+[2025-09-18T09:27:22.565Z] info: 	[Client Request] /fika/presence/get
+[2025-09-18T09:27:31.596Z] debug: 	Saving 1 profile took 6.048ms
+[2025-09-18T09:27:32.574Z] info: 	[Client Request] /fika/presence/get
+[2025-09-18T09:27:42.590Z] info: 	[Client Request] /fika/presence/get
+[2025-09-18T09:27:51.627Z] debug: 	Saving 1 profile took 6.067ms
+[2025-09-18T09:27:52.605Z] info: 	[Client Request] /fika/presence/get
+[2025-09-18T09:27:58.028Z] info: 	[Client Request] /launcher/profile/info
+[2025-09-18T09:27:58.031Z] info: 	[Client Request] /launcher/server/version
+[2025-09-18T09:28:02.616Z] info: 	[Client Request] /fika/presence/get
+[2025-09-18T09:28:11.647Z] debug: 	Saving 1 profile took 5.731ms
+[2025-09-18T09:28:12.626Z] info: 	[Client Request] /fika/presence/get
+[2025-09-18T09:28:22.643Z] info: 	[Client Request] /fika/presence/get
+[2025-09-18T09:28:31.359Z] debug: 	[WS] Pinging player: 68bece950000d5098b12a587
+[2025-09-18T09:28:31.668Z] debug: 	Saving 1 profile took 5.665ms
+[2025-09-18T09:28:32.655Z] info: 	[Client Request] /fika/presence/get
+[2025-09-18T09:28:42.656Z] info: 	[Client Request] /fika/presence/get
+[2025-09-18T09:28:51.696Z] debug: 	Saving 1 profile took 5.969ms
+[2025-09-18T09:28:52.671Z] info: 	[Client Request] /fika/presence/get
+[2025-09-18T09:28:58.022Z] info: 	[Client Request] /launcher/profile/info
+[2025-09-18T09:28:58.024Z] info: 	[Client Request] /launcher/server/version
+[2025-09-18T09:29:02.680Z] info: 	[Client Request] /fika/presence/get
+[2025-09-18T09:29:11.840Z] debug: 	Saving 1 profile took 6.399ms
+[2025-09-18T09:29:12.695Z] info: 	[Client Request] /fika/presence/get
+[2025-09-18T09:29:22.707Z] info: 	[Client Request] /fika/presence/get
+[2025-09-18T09:29:31.767Z] debug: 	Saving 1 profile took 5.94ms
+[2025-09-18T09:29:32.000Z] info: 	[Client Request] /client/game/keepalive
+[2025-09-18T09:29:32.718Z] info: 	[Client Request] /fika/presence/get
+[2025-09-18T09:29:42.729Z] info: 	[Client Request] /fika/presence/get
+[2025-09-18T09:29:51.822Z] debug: 	Saving 1 profile took 5.769ms
+[2025-09-18T09:29:52.742Z] info: 	[Client Request] /fika/presence/get
+[2025-09-18T09:29:58.026Z] info: 	[Client Request] /launcher/profile/info
+[2025-09-18T09:29:58.028Z] info: 	[Client Request] /launcher/server/version
+[2025-09-18T09:29:59.750Z] info: 	[Client Request] /client/match/group/invite/cancel-all
+[2025-09-18T09:29:59.805Z] info: 	[Client Request] /client/game/logout
+[2025-09-18T09:30:00.584Z] debug: 	[Fika Notification Manager] Deleting client 68bece950000d5098b12a587
+[2025-09-18T09:30:01.373Z] debug: 	[WS] Pinging player: 68bece950000d5098b12a587
+[2025-09-18T09:30:01.373Z] debug: 	[WS] Socket lost, deleting handle
+[2025-09-18T09:30:02.034Z] info: 	[Client Request] /launcher/profile/info
+[2025-09-18T09:30:02.037Z] info: 	[Client Request] /launcher/server/version
+[2025-09-18T09:30:11.843Z] debug: 	Saving 1 profile took 6.089ms
+[2025-09-18T09:30:31.956Z] debug: 	Saving 1 profile took 5.412ms
+[2025-09-18T09:30:51.894Z] debug: 	Saving 1 profile took 5.832ms
+[2025-09-18T09:31:11.939Z] debug: 	Saving 1 profile took 5.81ms
+[2025-09-18T09:31:31.954Z] debug: 	Saving 1 profile took 5.441ms
+[2025-09-18T09:31:52.081Z] debug: 	Saving 1 profile took 5.905ms
